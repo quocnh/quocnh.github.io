@@ -1,0 +1,6 @@
+Apr 16 2020 16:03:52
+{"type":8,"message":"Trying to access array offset on value of type bool","file":"\/Applications\/MAMP\/htdocs\/home\/wp-content\/plugins\/option-tree\/includes\/ot-settings-api.php","line":403}
+
+Apr 16 2020 16:03:55
+{"type":8,"message":"Trying to access array offset on value of type bool","file":"\/Applications\/MAMP\/htdocs\/home\/wp-content\/plugins\/option-tree\/includes\/ot-settings-api.php","line":403}
+

@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: biopic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-25 19:10+0500\n"
+"PO-Revision-Date: 2014-09-25 19:10+0500\n"
+"Last-Translator: Sher Ali <sher.ali@lucidstudios.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "comments"
+msgstr "reacties"
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "0 Comments"
+msgstr "0 Reacties"
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: blog.php:162
+#: category.php:149
+#: search.php:141
+msgid "Read More"
+msgstr "Lees meer"
+
+#: comments.php:3
+msgid "Direct access to this page is restricted. Thank you!"
+msgstr "Directe toegang tot deze pagina is verboden. Bedankt voor uw begrip!"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is beveiligd met een wachtwoord. Voer het wachtwoord in om deze te bekijken."
+
+#: comments.php:22
+msgid "This article has "
+msgstr "Dit artikel heeft"
+
+#: comments.php:22
+#, fuzzy
+msgid "no comments"
+msgstr "reacties"
+
+#: comments.php:22
+#, fuzzy
+msgid "one Comment"
+msgstr "een reactie"
+
+#: comments.php:22
+#, fuzzy, php-format
+msgid "% comments"
+msgstr "% Reacties"
+
+#: comments.php:32
+msgid "Comments are now closed for this post."
+msgstr "Reacties zijn gesloten voor dit bericht."
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:77
+msgid "Leave a Reply"
+msgstr "Laat een reactie achter"
+
+#: comments.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laat een reactie achter op %s"
+
+#: comments.php:85
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Je moet %1$sinloggen%2$s om een reactie te kunnen plaatsen."
+
+#: comments.php:94
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Ingelogged als %1$s. %2$sUitloggen &raquo;%3$s"
+
+#: comments.php:94
+msgid "Log out of this account"
+msgstr "Log uit dit account"
+
+#: comments.php:99
+msgid "Name (required)"
+msgstr "Naam (verplicht)"
+
+#: comments.php:101
+msgid "Email (required)"
+msgstr "Email (verplicht)"
+
+#: comments.php:103
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:108
+msgid "Comment (required)"
+msgstr "Reactie (verplicht)"
+
+#: comments.php:110
+msgid "Post Comment"
+msgstr "Plaats reactie"
+
+#: contact.php:74
+msgid "Ask me anything."
+msgstr "U kunt mij alles vragen."
+
+#: contact.php:77
+msgid "Your name"
+msgstr "Uw naam"
+
+#: contact.php:80
+msgid "Your email"
+msgstr "Uw email"
+
+#: contact.php:83
+msgid "Your message"
+msgstr "Uw bericht"
+
+#: contact.php:87
+msgid "Submit"
+msgstr "Verstuur"
+
+#: functions.php:9
+msgid "Biopic Main Menu"
+msgstr "Biopic Hoofdmenu"
+
+#: functions.php:18
+msgid "Profile Sidebar"
+msgstr "Profiel sidebar"
+
+#: functions.php:20
+msgid "Sidebar for profile page"
+msgstr "Sidebar voor profiel pagina"
+
+#: functions.php:28
+msgid "Blog Sidebar"
+msgstr "Blog sidebar"
+
+#: functions.php:30
+msgid "Sidebar for blog page"
+msgstr "Sidebar voor blog pagina"
+
+#: functions.php:38
+msgid "Contact Sidebar"
+msgstr "Contact sidebar"
+
+#: functions.php:40
+msgid "Sidebar for contact page"
+msgstr "Sidebar voor contact pagina"
+
+#: functions.php:48
+msgid "Header Widget Area"
+msgstr "Header Widget omgeving"
+
+#: functions.php:50
+msgid "Widget area at the top left header"
+msgstr "Widget area op de top links  header"
+
+#: functions.php:58
+msgid "Footer Widget Area"
+msgstr "Footer Widget omgeving"
+
+#: functions.php:60
+msgid "Widget area at the bottom"
+msgstr "Widget area aan de onderkant"
+
+#: functions.php:244
+msgid "Please enter your name"
+msgstr "Vul je naam in"
+
+#: functions.php:244
+msgid "Please enter your email id"
+msgstr "Vul je email in"
+
+#: functions.php:244
+msgid "Please enter a valid email id"
+msgstr "Vul een juist email adres in"
+
+#: functions.php:244
+msgid "Please enter your message"
+msgstr "Vul je bericht in"
+
+#: functions.php:244
+#, fuzzy
+msgid "Form has been successfully submitted."
+msgstr "Forum is succesvol verstuurd"
+
+#: functions.php:244
+msgid "An error occurred while submitting the form. Please try again."
+msgstr "Er is een fout opgetreden tijdens het versturen. Probeer het nog eens."
+
+#: functions.php:326
+msgid "Works"
+msgstr "mijn werk"
+
+#: functions.php:327
+msgid "Work"
+msgstr "werk"
+
+#: functions.php:328
+msgid "Add New"
+msgstr "Nieuw"
+
+#: functions.php:329
+msgid "Add New Work"
+msgstr "Voeg nieuw werk toe"
+
+#: functions.php:330
+msgid "Edit Work"
+msgstr "Wijzig werk"
+
+#: functions.php:331
+msgid "New Work"
+msgstr "Nieuw werk"
+
+#: functions.php:332
+msgid "View Work"
+msgstr "Bekijk werk"
+
+#: functions.php:333
+msgid "Search Works"
+msgstr "Vind werk"
+
+#: functions.php:334
+msgid "Nothing found"
+msgstr "Niks gevonden"
+
+#: functions.php:335
+msgid "Nothing found in Trash"
+msgstr "Niks gevonden in prullenbak"
+
+#: functions.php:354
+msgid "Skills"
+msgstr "Skills"
+
+#: functions.php:355
+msgid "Skill"
+msgstr "Skill"
+
+#: functions.php:356
+msgid "Search Skills"
+msgstr "Zoek in skills"
+
+#: functions.php:357
+msgid "All Skills"
+msgstr "Alle skills"
+
+#: functions.php:358
+msgid "Parent Skill"
+msgstr "Parent skill"
+
+#: functions.php:359
+msgid "Parent Skill:"
+msgstr "Parent skill:"
+
+#: functions.php:360
+msgid "Edit Skill"
+msgstr "Wijzig skill"
+
+#: functions.php:361
+msgid "Update Skill"
+msgstr "Update skill"
+
+#: functions.php:362
+msgid "Add New Skill"
+msgstr "Nieuwe skill"
+
+#: functions.php:363
+msgid "New Skill Name"
+msgstr "Nieuwe skill naam"
+
+#: functions.php:387
+msgid "Work Options"
+msgstr "Werk opties"
+
+#: functions.php:398
+msgid "Video URL:"
+msgstr "Video URL:"
+
+#: functions.php:402
+msgid "Link Title to External URL:"
+msgstr "Link titel naar externe URL:"
+
+#: functions.php:479
+#, fuzzy
+msgid "Post Options"
+msgstr "Werk opties"
+
+#: functions.php:490
+#, fuzzy
+msgid "Video ID:"
+msgstr "Video URL:"
+
+#: functions.php:494
+#, fuzzy
+msgid "Video Type:"
+msgstr "Video URL:"
+
+#: functions.php:495
+msgid "Youtube"
+msgstr "Youtube"
+
+#: functions.php:496
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: functions.php:533
+msgid "(Edit)"
+msgstr "(Wijzig)"
+
+#: functions.php:538
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wacht op moderatie."
+
+#: portfolio.php:76
+msgid "All"
+msgstr "Alles"
+
+#: search.php:149
+#, php-format
+msgid "No search results found for %1$s"
+msgstr ""
+
+#: sidebar-blog.php:6
+msgid "Subscribe to my blog"
+msgstr ""
+
+#: includes/shortcodes.php:255
+msgid "Wrong value specified for the type parameter of list shortcode"
+msgstr "Verkeerde waarde gespecificeerd voor het type parameter van lijst shortcode"
+
+#: includes/shortcodes.php:402
+msgid "Wrong values specified for gmap (Google Map) shortcode"
+msgstr "Verkeerde waarde gespecificeerd voor gmap (Google Map) shortcode"
+
+#: includes/widgets.php:8
+msgid "Shows latest twitter tweets in widgetized area"
+msgstr "Toon de laatste twitter tweets in het widget gebied"
+
+#: includes/widgets.php:15
+msgid "Biopic Twitter Tweets"
+msgstr "Biopic Twitter Tweets"
+
+#: includes/widgets.php:19
+msgid "follow us on Twitter"
+msgstr "Volg ons op Twitter"
+
+#: includes/widgets.php:23
+#: includes/widgets.php:139
+#: includes/widgets.php:274
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widgets.php:28
+msgid "Twitter ID:"
+msgstr "Twitter ID:"
+
+#: includes/widgets.php:33
+msgid "Number of Tweets:"
+msgstr "Aantal Tweets:"
+
+#: includes/widgets.php:38
+msgid "Target Window:"
+msgstr ""
+
+#: includes/widgets.php:124
+msgid "Shows flickr photo stream for a given stream id in widgetized area"
+msgstr "Toont flickr foto stream voor een opgegeven stream id in het widget gebied"
+
+#: includes/widgets.php:131
+msgid "Biopic Flickr Photo Stream"
+msgstr "Biopic Flickr Foto Stream"
+
+#: includes/widgets.php:135
+msgid "Flickr Gallery"
+msgstr "Flickr gallerij"
+
+#: includes/widgets.php:135
+msgid "view flickr gallery"
+msgstr "Bekijk flickr gallerij"
+
+#: includes/widgets.php:144
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: includes/widgets.php:149
+msgid "Stream Type (user or group):"
+msgstr "Stream type (gebruiker of groep):"
+
+#: includes/widgets.php:157
+msgid "Display Type (latest or random):"
+msgstr "Display type (de laatste of random):"
+
+#: includes/widgets.php:165
+msgid "Number of Thumbs to Show:"
+msgstr "Aantal thumbs om te tonen:"
+
+#: includes/widgets.php:170
+msgid "Link Text e.g. view flickr gallery:"
+msgstr "Link text b.v. bekijk flickr gallerij:"
+
+#: includes/widgets.php:240
+msgid "First specify the flickr id in the widget settings."
+msgstr "Specificeer eerst het flickr id in de widget instellingen."
+
+#: includes/widgets.php:258
+msgid "Shows most recent work"
+msgstr "Toont het laatste werk"
+
+#: includes/widgets.php:265
+msgid "Biopic Recent Work"
+msgstr "Biopic recent werk"
+
+#: includes/widgets.php:279
+msgid "Portfolio Page:"
+msgstr "Portfolio pagina:"
+
+#: includes/widgets.php:284
+msgid "Number of Projects:"
+msgstr "Aantal projecten:"
+
+#: includes/tinymce/dialog.php:6
+msgid "You don't have access to edit pages and posts"
+msgstr "Je hebt geen rechten om pagina's en berichten te bewerken"
+
+#: includes/tinymce/dialog.php:42
+msgid "Select Shortcode"
+msgstr "Selecteer shortcode"
+
+#: includes/tinymce/dialog.php:44
+msgid "Choose a Shortcode"
+msgstr "Kies een shortcode"
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid "see portfolio"
+#~ msgstr "bekijk portfolio"
+
+#~ msgid "Link Text e.g. see portfolio"
+#~ msgstr "Link tekst b.v. bekijk portfolio"
+
+#~ msgid "Menu Icon:"
+#~ msgstr "Menu icoon:"
+
+#~ msgid "Upload Icon"
+#~ msgstr "Upload icoon:"
+
+#~ msgid "Menu Active Icon:"
+#~ msgstr "Menu actief icoon:"
+
+#~ msgid "Upload Active Icon"
+#~ msgstr "Upload actief icoon"
+
+#~ msgid "No Comments"
+#~ msgstr "Geen reacties"
+
+#~ msgid "Comments (%)"
+#~ msgstr "Reacties (%)"
+
+#~ msgid "Older posts"
+#~ msgstr "Vorige berichten"
+
+#~ msgid "Newer posts"
+#~ msgstr "Volgende berichten"

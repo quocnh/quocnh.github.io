@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: biopic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-25 19:10+0500\n"
+"PO-Revision-Date: 2014-09-25 19:10+0500\n"
+"Last-Translator: Sher Ali <sher.ali@lucidstudios.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "comments"
+msgstr ""
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "0 Comments"
+msgstr ""
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: blog.php:102
+#: category.php:94
+#: search.php:86
+msgid "% Comments"
+msgstr ""
+
+#: blog.php:162
+#: category.php:149
+#: search.php:141
+msgid "Read More"
+msgstr ""
+
+#: comments.php:3
+msgid "Direct access to this page is restricted. Thank you!"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:22
+msgid "This article has "
+msgstr ""
+
+#: comments.php:22
+msgid "no comments"
+msgstr ""
+
+#: comments.php:22
+msgid "one Comment"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Comments are now closed for this post."
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:77
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:85
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:94
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:94
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:99
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:101
+msgid "Email (required)"
+msgstr ""
+
+#: comments.php:103
+msgid "Website"
+msgstr ""
+
+#: comments.php:108
+msgid "Comment (required)"
+msgstr ""
+
+#: comments.php:110
+msgid "Post Comment"
+msgstr ""
+
+#: contact.php:74
+msgid "Ask me anything."
+msgstr ""
+
+#: contact.php:77
+msgid "Your name"
+msgstr ""
+
+#: contact.php:80
+msgid "Your email"
+msgstr ""
+
+#: contact.php:83
+msgid "Your message"
+msgstr ""
+
+#: contact.php:87
+msgid "Submit"
+msgstr ""
+
+#: functions.php:9
+msgid "Biopic Main Menu"
+msgstr ""
+
+#: functions.php:18
+msgid "Profile Sidebar"
+msgstr ""
+
+#: functions.php:20
+msgid "Sidebar for profile page"
+msgstr ""
+
+#: functions.php:28
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:30
+msgid "Sidebar for blog page"
+msgstr ""
+
+#: functions.php:38
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:40
+msgid "Sidebar for contact page"
+msgstr ""
+
+#: functions.php:48
+msgid "Header Widget Area"
+msgstr ""
+
+#: functions.php:50
+msgid "Widget area at the top left header"
+msgstr ""
+
+#: functions.php:58
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:60
+msgid "Widget area at the bottom"
+msgstr ""
+
+#: functions.php:244
+msgid "Please enter your name"
+msgstr ""
+
+#: functions.php:244
+msgid "Please enter your email id"
+msgstr ""
+
+#: functions.php:244
+msgid "Please enter a valid email id"
+msgstr ""
+
+#: functions.php:244
+msgid "Please enter your message"
+msgstr ""
+
+#: functions.php:244
+msgid "Form has been successfully submitted."
+msgstr ""
+
+#: functions.php:244
+msgid "An error occurred while submitting the form. Please try again."
+msgstr ""
+
+#: functions.php:326
+msgid "Works"
+msgstr ""
+
+#: functions.php:327
+msgid "Work"
+msgstr ""
+
+#: functions.php:328
+msgid "Add New"
+msgstr ""
+
+#: functions.php:329
+msgid "Add New Work"
+msgstr ""
+
+#: functions.php:330
+msgid "Edit Work"
+msgstr ""
+
+#: functions.php:331
+msgid "New Work"
+msgstr ""
+
+#: functions.php:332
+msgid "View Work"
+msgstr ""
+
+#: functions.php:333
+msgid "Search Works"
+msgstr ""
+
+#: functions.php:334
+msgid "Nothing found"
+msgstr ""
+
+#: functions.php:335
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions.php:354
+msgid "Skills"
+msgstr ""
+
+#: functions.php:355
+msgid "Skill"
+msgstr ""
+
+#: functions.php:356
+msgid "Search Skills"
+msgstr ""
+
+#: functions.php:357
+msgid "All Skills"
+msgstr ""
+
+#: functions.php:358
+msgid "Parent Skill"
+msgstr ""
+
+#: functions.php:359
+msgid "Parent Skill:"
+msgstr ""
+
+#: functions.php:360
+msgid "Edit Skill"
+msgstr ""
+
+#: functions.php:361
+msgid "Update Skill"
+msgstr ""
+
+#: functions.php:362
+msgid "Add New Skill"
+msgstr ""
+
+#: functions.php:363
+msgid "New Skill Name"
+msgstr ""
+
+#: functions.php:387
+msgid "Work Options"
+msgstr ""
+
+#: functions.php:398
+msgid "Video URL:"
+msgstr ""
+
+#: functions.php:402
+msgid "Link Title to External URL:"
+msgstr ""
+
+#: functions.php:479
+msgid "Post Options"
+msgstr ""
+
+#: functions.php:490
+msgid "Video ID:"
+msgstr ""
+
+#: functions.php:494
+msgid "Video Type:"
+msgstr ""
+
+#: functions.php:495
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:496
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:533
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:538
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: portfolio.php:76
+msgid "All"
+msgstr ""
+
+#: search.php:149
+#, php-format
+msgid "No search results found for %1$s"
+msgstr ""
+
+#: sidebar-blog.php:6
+msgid "Subscribe to my blog"
+msgstr ""
+
+#: includes/shortcodes.php:255
+msgid "Wrong value specified for the type parameter of list shortcode"
+msgstr ""
+
+#: includes/shortcodes.php:402
+msgid "Wrong values specified for gmap (Google Map) shortcode"
+msgstr ""
+
+#: includes/widgets.php:8
+msgid "Shows latest twitter tweets in widgetized area"
+msgstr ""
+
+#: includes/widgets.php:15
+msgid "Biopic Twitter Tweets"
+msgstr ""
+
+#: includes/widgets.php:19
+msgid "follow us on Twitter"
+msgstr ""
+
+#: includes/widgets.php:23
+#: includes/widgets.php:139
+#: includes/widgets.php:274
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets.php:28
+msgid "Twitter ID:"
+msgstr ""
+
+#: includes/widgets.php:33
+msgid "Number of Tweets:"
+msgstr ""
+
+#: includes/widgets.php:38
+msgid "Target Window:"
+msgstr ""
+
+#: includes/widgets.php:124
+msgid "Shows flickr photo stream for a given stream id in widgetized area"
+msgstr ""
+
+#: includes/widgets.php:131
+msgid "Biopic Flickr Photo Stream"
+msgstr ""
+
+#: includes/widgets.php:135
+msgid "Flickr Gallery"
+msgstr ""
+
+#: includes/widgets.php:135
+msgid "view flickr gallery"
+msgstr ""
+
+#: includes/widgets.php:144
+msgid "Flickr ID:"
+msgstr ""
+
+#: includes/widgets.php:149
+msgid "Stream Type (user or group):"
+msgstr ""
+
+#: includes/widgets.php:157
+msgid "Display Type (latest or random):"
+msgstr ""
+
+#: includes/widgets.php:165
+msgid "Number of Thumbs to Show:"
+msgstr ""
+
+#: includes/widgets.php:170
+msgid "Link Text e.g. view flickr gallery:"
+msgstr ""
+
+#: includes/widgets.php:240
+msgid "First specify the flickr id in the widget settings."
+msgstr ""
+
+#: includes/widgets.php:258
+msgid "Shows most recent work"
+msgstr ""
+
+#: includes/widgets.php:265
+msgid "Biopic Recent Work"
+msgstr ""
+
+#: includes/widgets.php:279
+msgid "Portfolio Page:"
+msgstr ""
+
+#: includes/widgets.php:284
+msgid "Number of Projects:"
+msgstr ""
+
+#: includes/tinymce/dialog.php:6
+msgid "You don't have access to edit pages and posts"
+msgstr ""
+
+#: includes/tinymce/dialog.php:42
+msgid "Select Shortcode"
+msgstr ""
+
+#: includes/tinymce/dialog.php:44
+msgid "Choose a Shortcode"
+msgstr ""
+

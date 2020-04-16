@@ -1,0 +1,36 @@
+Version 1.5.2 29-06-2015
+- Updated the prettyPhoto library to 3.1.6 from 3.1.5
+- Files Changed: all prettyPhoto library files
+
+Version 1.5.1 06-11-2014
+- Fixed the contact form issue of it not working after the last update of Biopic i.e. version 1.5.0
+- Files Changed: javascripts/scripts.js, contact.php
+
+Version 1.5.0 25-09-2014
+- Updated the button shortcode to let you specify the target window in which to upload the url of the button.
+- Added the target=“_blank” attribute to the social urls in the right sidebar.
+- Updated the theme as a whole to better meet the latest themeforest WordPress quality standards.
+- Note: This is a big update so you will have to update the whole theme
+
+Version 1.0.5 20-03-2014
+- Added some layout fixes regarding portfolio page and added formatting support for ul and ol within the blog posts.
+- Files Changed: css/layout.css
+- Files/Folders Added: 
+
+Version 1.0.4 18-11-2013
+- Updated PrettyPhoto library
+- Files Changed: pretty photo library files
+- Files/Folders Added: 
+
+Version 1.0.3 01-07-2013
+- Fixed twitter tweets feed bug
+- Files Changed: includes/widgets.php
+- Files/Folders Added: includes/twitteroauth
+
+Version 1.0.2 29-04-2013
+- Fixed portfolio filtering issue if the label of a category was longer than 2 words
+- Files changed
+
+Version 1.0.1 
+- Some minor bug fixes
+
