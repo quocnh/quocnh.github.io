@@ -8,7 +8,7 @@
     color: #999999;
     line-height: 150%;
     padding-top: 20px;
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/shadow-address.jpg') no-repeat 0px 0px; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/shadow-address.jpg') no-repeat 0px 0px; }
 .desc {
     font-size: 13px;
     color: #999999;
@@ -30,47 +30,47 @@ nav li a span:hover {
     cursor: pointer; }
 nav li.current-menu-item a {
     line-height: 290%;
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/nav-gradient.png') #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/nav-gradient.png') #55BDC9; }
 nav li.profile a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/profile-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/profile-icon.png') no-repeat 9px 8px transparent; }
 nav li.profile.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/profile-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/profile-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.resume a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/resume-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/resume-icon.png') no-repeat 9px 8px transparent; }
 nav li.resume.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/resume-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/resume-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.portfolio a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/portfolio-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/portfolio-icon.png') no-repeat 9px 8px transparent; }
 nav li.portfolio.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/portfolio-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/portfolio-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.blog a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/blog-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/blog-icon.png') no-repeat 9px 8px transparent; }
 nav li.blog.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/blog-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/blog-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.contact a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/contact-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/contact-icon.png') no-repeat 9px 8px transparent; }
 nav li.contact.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/contact-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/contact-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.clients a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/clients-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/clients-icon.png') no-repeat 9px 8px transparent; }
 nav li.clients.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/clients-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/clients-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.ourteam a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/ourteam-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/ourteam-icon.png') no-repeat 9px 8px transparent; }
 nav li.ourteam.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/ourteam-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/ourteam-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.services a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/services-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/services-icon.png') no-repeat 9px 8px transparent; }
 nav li.services.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/services-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/services-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.testimonials a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/testimonials-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/testimonials-icon.png') no-repeat 9px 8px transparent; }
 nav li.testimonials.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/testimonials-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/testimonials-active-icon.png') no-repeat 12px 10px transparent; }
 nav li.links a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/links-icon.png') no-repeat 9px 8px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/links-icon.png') no-repeat 9px 8px transparent; }
 nav li.links.current-menu-item a > span {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/links-active-icon.png') no-repeat 12px 10px transparent; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/links-active-icon.png') no-repeat 12px 10px transparent; }
 
 /* #Head info
 ================================================== */
@@ -101,57 +101,57 @@ nav li.links.current-menu-item a > span {
     text-decoration: none;
     color: #999999; }
 .subnavResume .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-resume.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-resume.png') no-repeat 0px 0px #cccccc; }
 .subnavResume:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-resume.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-resume.png') no-repeat 0px 0px #55BDC9; }
 .subnavResume:hover a {
     color: #1B9FB8; }
 .subnavPortfolio .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-portfolio.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-portfolio.png') no-repeat 0px 0px #cccccc; }
 .subnavPortfolio:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-portfolio.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-portfolio.png') no-repeat 0px 0px #55BDC9; }
 .subnavPortfolio:hover a {
     color: #1B9FB8; }
 .subnavBlog .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-blog.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-blog.png') no-repeat 0px 0px #cccccc; }
 .subnavBlog:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-blog.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-blog.png') no-repeat 0px 0px #55BDC9; }
 .subnavBlog:hover a {
     color: #1B9FB8; }
 .subnavContact .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-contact.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-contact.png') no-repeat 0px 0px #cccccc; }
 .subnavContact:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-contact.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-contact.png') no-repeat 0px 0px #55BDC9; }
 .subnavContact:hover a {
     color: #1B9FB8; }
 .subnavServices .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-services.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-services.png') no-repeat 0px 0px #cccccc; }
 .subnavServices:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-services.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-services.png') no-repeat 0px 0px #55BDC9; }
 .subnavServices:hover a {
     color: #1B9FB8; }
 .subnavClients .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-clients.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-clients.png') no-repeat 0px 0px #cccccc; }
 .subnavClients:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-clients.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-clients.png') no-repeat 0px 0px #55BDC9; }
 .subnavClients:hover a {
     color: #1B9FB8; }
 .subnavLinks .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-links.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-links.png') no-repeat 0px 0px #cccccc; }
 .subnavLinks:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-links.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-links.png') no-repeat 0px 0px #55BDC9; }
 .subnavLinks:hover a {
     color: #1B9FB8; }
 .subnavOurteam .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-ourteam.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-ourteam.png') no-repeat 0px 0px #cccccc; }
 .subnavOurteam:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-ourteam.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-ourteam.png') no-repeat 0px 0px #55BDC9; }
 .subnavOurteam:hover a {
     color: #1B9FB8; }
 .subnavTestimonials .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-testimonials.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-testimonials.png') no-repeat 0px 0px #cccccc; }
 .subnavTestimonials:hover .invert {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert-testimonials.png') no-repeat 0px 0px #55BDC9; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert-testimonials.png') no-repeat 0px 0px #55BDC9; }
 .subnavTestimonials:hover a {
     color: #1B9FB8; }
 
@@ -161,7 +161,7 @@ nav li.links.current-menu-item a > span {
     font-size: 12px;
     color: #999999;
     line-height: 150%;
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/shadow-profile-sidebar.jpg') no-repeat 0px 0px; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/shadow-profile-sidebar.jpg') no-repeat 0px 0px; }
 .blog .sidebar {
     background: none; }
 .blog .sidebar a {
@@ -210,9 +210,9 @@ nav li.links.current-menu-item a > span {
     font-weight: bold;
     font-size: 14px; }
 .skills .rating span.filled {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/skill-rating.png') no-repeat 0px 0px #1B9FB8; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/skill-rating.png') no-repeat 0px 0px #1B9FB8; }
 .skills .rating span.empty {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/skill-rating.png') no-repeat 0px 0px #cccccc; }
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/skill-rating.png') no-repeat 0px 0px #cccccc; }
 
 /* #Portfolio
 ================================================== */
@@ -242,11 +242,11 @@ nav li.links.current-menu-item a > span {
     color: #999999;
     font-size: 12px; }
 .portfolio-items .items .work a:hover .image-wrapper .cover.image {
-    background:rgba(255, 255, 255, 0.5) url('/https://quocnh.github.io/wp-content/themes/biopic/images/hover-image.png') no-repeat center center; }
+    background:rgba(255, 255, 255, 0.5) url('https://quocnh.github.io/wp-content/themes/biopic/images/hover-image.png') no-repeat center center; }
 .portfolio-items .items .work a:hover .image-wrapper .cover.video {
-    background:rgba(255, 255, 255, 0.5) url('/https://quocnh.github.io/wp-content/themes/biopic/images/hover-video.png') no-repeat center center; }
+    background:rgba(255, 255, 255, 0.5) url('https://quocnh.github.io/wp-content/themes/biopic/images/hover-video.png') no-repeat center center; }
 .portfolio-items .items .work a:hover .image-wrapper .cover.link {
-    background:rgba(255, 255, 255, 0.5) url('/https://quocnh.github.io/wp-content/themes/biopic/images/hover-link.png') no-repeat center center; }
+    background:rgba(255, 255, 255, 0.5) url('https://quocnh.github.io/wp-content/themes/biopic/images/hover-link.png') no-repeat center center; }
 
 /* #Blog
 ================================================== */
@@ -327,5 +327,5 @@ footer {
     display: inline-block;
     width: 48px;
     height: 48px;
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/invert.png') no-repeat 0px 0px #55BDC9;}
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/invert.png') no-repeat 0px 0px #55BDC9;}
 */

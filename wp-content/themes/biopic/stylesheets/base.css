@@ -52,7 +52,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-        background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/tile.jpg');
+        background: url('https://quocnh.github.io/wp-content/themes/biopic/images/tile.jpg');
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -93,7 +93,7 @@ pre code {
     font-size: 11px;
 }
 pre {
-    background-image: url('/https://quocnh.github.io/wp-content/themes/biopic/images/pre-back.gif');
+    background-image: url('https://quocnh.github.io/wp-content/themes/biopic/images/pre-back.gif');
     padding: 0.1em 0.5em 0.3em 0.7em;
     border-left: 5px solid #ccc;
     margin: 1.7em 0 1.7em 0.3em;
@@ -142,8 +142,8 @@ pre {
 	li { line-height: 18px; margin-bottom: 12px; }
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
-    ul.arrow ul { list-style-image: url("/https://quocnh.github.io/wp-content/themes/biopic/images/list-arrow.fw.png"); }
-    ul.check ul { list-style-image: url("/https://quocnh.github.io/wp-content/themes/biopic/images/list-check.fw.png"); }
+    ul.arrow ul { list-style-image: url("https://quocnh.github.io/wp-content/themes/biopic/images/list-arrow.fw.png"); }
+    ul.check ul { list-style-image: url("https://quocnh.github.io/wp-content/themes/biopic/images/list-check.fw.png"); }
 
 /* #Alert boxes
 ================================================== */
@@ -173,29 +173,29 @@ pre {
         position: absolute;
         right: 10px;
         top: 5px;
-        background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/close.fw.png') no-repeat 8px 8px;
+        background: url('https://quocnh.github.io/wp-content/themes/biopic/images/close.fw.png') no-repeat 8px 8px;
     }
 
     div.standard {
-        background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/alert-standard.png') no-repeat 8px 8px #BFEFFF;
+        background: url('https://quocnh.github.io/wp-content/themes/biopic/images/alert-standard.png') no-repeat 8px 8px #BFEFFF;
         border: 1px solid #73B9FF;
         color: #0085B2;
     }
 
     div.warning {
-        background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/alert-warning.png') no-repeat 8px 8px #FFF7CA;
+        background: url('https://quocnh.github.io/wp-content/themes/biopic/images/alert-warning.png') no-repeat 8px 8px #FFF7CA;
         border: 1px solid #EBD47C;
         color: #A86602;
     }
 
     div.success {
-        background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/alert-succes.png') no-repeat 8px 8px #ECF7D9;
+        background: url('https://quocnh.github.io/wp-content/themes/biopic/images/alert-succes.png') no-repeat 8px 8px #ECF7D9;
         border: 1px solid #B3DC77;
         color: #4E8A10;
     }
 
     div.error {
-        background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/alert-error.png') no-repeat 8px 8px #FFE3E3;
+        background: url('https://quocnh.github.io/wp-content/themes/biopic/images/alert-error.png') no-repeat 8px 8px #FFE3E3;
         border: 1px solid #EF999E;
         color: #D8000C;
     }
@@ -220,7 +220,7 @@ pre {
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-      background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/nav-gradient.png') #55BDC9;
+      background: url('https://quocnh.github.io/wp-content/themes/biopic/images/nav-gradient.png') #55BDC9;
 	  border: none;
 	  padding: 4px 12px;
 	  -moz-border-radius: 3px;
@@ -381,7 +381,7 @@ div.accordion .atitle a {
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/plus.fw.png') no-repeat 10px;
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/plus.fw.png') no-repeat 10px;
     margin-top: -1px;
     display: block;
     border: 1px solid #dddddd;
@@ -389,7 +389,7 @@ div.accordion .atitle a {
 }
 
 div.accordion .active a {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/minus.fw.png') no-repeat 10px;
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/minus.fw.png') no-repeat 10px;
 }
 
 div.accordion .atitle a:hover, div.accordion .atitle a:focus {
@@ -412,7 +412,7 @@ div.toggle .ttitle a {
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/plus.fw.png') no-repeat 10px;
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/plus.fw.png') no-repeat 10px;
     margin-top: -1px;
     display: block;
     border: 1px solid #dddddd;
@@ -420,7 +420,7 @@ div.toggle .ttitle a {
 }
 
 div.toggle .active a {
-    background: url('/https://quocnh.github.io/wp-content/themes/biopic/images/minus.fw.png') no-repeat 10px;
+    background: url('https://quocnh.github.io/wp-content/themes/biopic/images/minus.fw.png') no-repeat 10px;
 }
 
 div.toggle .ttitle a:hover, div.toggle .ttitle a:focus {

@@ -75,7 +75,7 @@ table.comments td.comment p a:after {
 }
 h2.ak-header {
     padding: 30px;
-    background: #649316 url('/https://quocnh.github.io/wp-content/plugins/akismet/_inc/img/logo-full-2x.png') no-repeat 20px center;
+    background: #649316 url('https://quocnh.github.io/wp-content/plugins/akismet/_inc/img/logo-full-2x.png') no-repeat 20px center;
     background-size: 185px 33px;
     height: 33px;
     text-indent: -9999em;
