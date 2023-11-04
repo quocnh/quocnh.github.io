@@ -19,11 +19,11 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=yikSJwMAAAAJ&hl=en
+# cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+github_link: https://github.com/quocnh/
+linkedin: https://www.linkedin.com/in/quocnh/
+# twitter: https://twitter.com/
 
 # Images 
 avatar: ./assets/img/mark_photo.jpg
@@ -32,7 +32,7 @@ favicon_dark: ./assets/img/usf_logo.png
 
 # Footnotes
 footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote_link: https://quocnh.github.io/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
