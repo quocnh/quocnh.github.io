@@ -4,7 +4,7 @@
 
 <ul>
 <li><strong>[Oct. 2023]</strong> I served as a Session Chair and gave a talk on generative model at <a href="https://meetings.informs.org/wordpress/phoenix2023/">2023 INFORMS Annual Meeting, Phoenix, USA</a>. </li>
-<li><strong>[Sept. 2023]</strong> I has been named a Future Faculty Fellow by the Institute for Industrial and Systems Engineers.</li>
+<li><strong>[Sept. 2023]</strong> I has been named a Future Faculty Fellow by the Institute for Industrial and Systems Engineers (3F IISE).</li>
 <li><strong>[Oct. 2022]</strong> I served as a Session Chair at <a href="https://meetings.informs.org/wordpress/indianapolis2022/">2022 INFORMS Annual Meeting, Indianapolis, USA</a>. </li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
