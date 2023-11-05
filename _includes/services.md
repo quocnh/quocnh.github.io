@@ -23,3 +23,9 @@
   <li><a href="https://www.mdpi.com/journal/sensors"><autocolor>Sensors</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
 </ul>
+<h4 style="margin:0 10px 0;">Others</h4>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.youtube.com/watch?v=j5FrIn6Ygek"><autocolor>Field Assistant. First LEGO League. Assisting the refs and resetting the boards, hosted by robotics - the College of Engineering, NDSU</autocolor></a></li>
+  <li><a href="https://www.dakotasleepsociety.com/"><autocolor> Web developer - Dakota Sleep Society Group, USA. Developed a website for raising fundings for a charity organization in North Dakota Stat</autocolor></a></li>
+  <li><autocolor>President of Badminton Club (2021-2022) and Vice President of Vietnamese Group at NDSU (2021-2022)</autocolor></li>
+</ul>
