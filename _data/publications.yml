@@ -3,12 +3,12 @@ main:
   - title: FedNIDS A Federated Learning Framework for Packet-based Network Intrusion Detection System
     authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
-    conference: 2023
+    conference: 
     pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
     code: 
     bibtex: 
     image: ./assets/publications/fednids/fednids.png
-    notes: Under review.
+    notes: Under review (2023).
 
   - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
     authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
@@ -17,7 +17,17 @@ main:
     pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
     code: https://github.com/quocnh/DFMRI
     bibtex: ./assets/publications/dfmri/biotex.txt
-    image: https://github.com/quocnh/DFMRI/blob/main/fig_framework_df.png
-    notes: Under review.
+    image: ./assets/publications/dfmri/fig_framework_df.png
+    notes: Under review (2023).
+
+  - title: A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
+    authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
+    conference_short: Preprint
+    conference: IEEE Computational Intelligence Magazine (CIM).
+    pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
+    code: https://github.com/quocnh/DFMRI
+    bibtex: ./assets/publications/dfmri/biotex.txt
+    image: ./assets/publications/dfmri/fig_framework_df.png
+    notes: Under review (2023).
 
 

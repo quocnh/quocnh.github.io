@@ -6,6 +6,9 @@
 <div class="publications">
 <ol class="bibliography">
 
+<h4 style="margin:0 10px 0;">Peer-reviewed Journals</h4>
+
+
 {% for link in site.data.publications.main %}
 
 <li>
@@ -46,6 +49,8 @@
 <br>
 
 {% endfor %}
+
+<h4 style="margin:0 10px 0;">Peer-reviewed Conferences</h4>
 
 <!---<li>
 <div class="pub-row">
