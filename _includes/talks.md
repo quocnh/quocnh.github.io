@@ -1,36 +1,38 @@
 <h1 id="invited-talks"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
-
-
-<h4 style="margin:0 10px 0;">Learning from Imperfect Data: Incremental Learning and Few-shot Learning.</h4>
+<h4 style="margin:0 10px 0;">Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html"><autocolor>Computational Imaging Seminar, Purdue University, August 2023.</autocolor></a></li>
-  <li><a href="https://sites.google.com/view/visionseminar"><autocolor>Vision and Graphics Seminar, Massachusetts Institute of Technology, April 2023.</autocolor></a></li>
-  <li><a href="https://calendars.illinois.edu/detail/2568?eventId=33456212"><autocolor>External Speaker Series, University of Illinois Urbana-Champaign, April 2023.</autocolor></a></li>
-  <li><a href="https://vigr.cs.columbia.edu/vigr_seminar.html"><autocolor>VIGR Seminar, Columbia University, March 2023.</autocolor></a></li>
-  <li><a href="https://ccvl.jhu.edu/"><autocolor>Computational Cognition, Vision, and Learning Lab, Johns Hopkins University, January 2023.</autocolor></a></li>
-  <li><a href="https://www.robots.ox.ac.uk/~vgg/"><autocolor>Visual Geometry Group (VGG), University of Oxford, November 2022.</autocolor></a></li>
-  <li><a href="https://fvl.fudan.edu.cn/"><autocolor>Fudan Vision and Learning Laboratory, Fudan University, September 2022.</autocolor></a></li>
-  <li><a href="https://www.nextcenter.org/"><autocolor>NExT++ Research Center, National University of Singapore, Singapore, April 2022.</autocolor></a></li>
-  <li>Singapore Management University, Singapore, September 2020.</li>
+  <li>2023 INFORMS Annual Meeting, Phoenix, USA.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Meta-transfer Learning for Few-shot Learning.</h4>
+<h4 style="margin:0 10px 0;">Developing an Architecture for IoT Interoperability in Healthcare: A case study of Realtime SpO2 Signal Monitoring and Analysis.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>École Polytechnique Fédérale de Lausann (EPFL), March 2023.</li>
+  <li>IEEE International Conference on Big Data, Dec 2020 (Virtual).</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Learning to Self-train for Semi-supervised Few-shot Classification.</h4>
+<h4 style="margin:0 10px 0;">Cloud computing with OpenStack.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>NeurIPS Official Meetups, Beijing, December 2019.</li>
+  <li>Center for Computationally Assisted Science and Technology, NDSU, May 2020.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Multi-class Incremental Learning.</h4>
+<h4 style="margin:0 10px 0;">Proposal of Novel Image Compression Algorithm using Kmean Clustering for VDI in Cloud Computing.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>1st Internal Conference on Next Generation Computing, Bangkok, Thailand, 2016 (Poster)</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Low cost real-time system monitoring using Raspberry Pi.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>Seventh IEEE International Conference on Ubiquitous and Future Networks, Sapporo, 2015</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Android-based Low-Cost Control System for Smart Home using Raspberry Pi.</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Nanyang Technological University, Singapore, July 2019.</li>
+  <li>KCC Conference, Jeju, South Korea, 2015.</li>
 </ul>
