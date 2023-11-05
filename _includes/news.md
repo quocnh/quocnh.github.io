@@ -9,8 +9,10 @@
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
-<li><strong>[Feb. 2022]</strong> I got the USENIX’s Student Travel Grant <a href="https://www.usenix.org/conference/enigma2022">2022 Enigma Conference, Santa Clara, USA</a>. Sponsored by USENIX-The Advanced Computing Systems Association</li>
-<li><strong>[Feb. 2021]</strong> I got Student Travel Grant <a href="https://www.usenix.org/conference/enigma2022">2021 Vision Conference, Washington DC, USA</a>. Sponsored by Bridges International USA</li>  
+<li><strong>[Feb. 2022]</strong> I received the USENIX’s Student Travel Grant <a href="https://www.usenix.org/conference/enigma2022">2022 Enigma Conference, Santa Clara, USA</a>. Sponsored by USENIX-The Advanced Computing Systems Association.</li>
+<li><strong>[Feb. 2021]</strong> I received Student Travel Grant <a href="https://www.usenix.org/conference/enigma2022">2021 Vision Conference, Washington DC, USA</a>. Sponsored by Bridges International USA.</li>
+<li><strong>[June 2020]</strong> I received GPN Cyber Team SC20 Scholarship <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925681">2020 The International Conference for High Performance Computing, Networking, Storage, and Analysis, Virtual
+Conference</a>. Sponsored by NSF OAC Award #1925681.</li>  
 </div>
 
 </ul>
