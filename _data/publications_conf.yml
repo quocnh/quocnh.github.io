@@ -3,7 +3,7 @@ main:
   - title: Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS
     authors: Soumyadeep Hore*, Quoc H. Nguyen*, Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
     conference_short: DSC
-    conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023).
+    conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023), Tampa, Florida, USA.
     pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
     code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/2023_DSC/AE_frame3.png
@@ -12,7 +12,7 @@ main:
   - title: Developing an Architecture for IoT Interoperability in Healthcare-A Case Study of Real-time SpO2 Signal Monitoring and Analysis
     authors: Quoc H. Nguyen*, Quang Dang, Chuan Pham, Tien-Dung Nguyen, Hang Nguyen, Arveity Setty, Trung Le
     conference_short: BigData
-    conference: 2020 IEEE International Conference on Big Data (BigData).
+    conference: 2020 IEEE International Conference on Big Data (BigData), Atlanta, USA.
     pdf: ./assets/publications/2020_bigdata/Developing_an_Architecture_for_IoT_Interoperability_in_Healthcare_A_Case_Study_of_Real-time_SpO2_Signal_Monitoring_and_Analysis.pdf
     page: https://doi.org/10.1109/BigData50022.2020.9378200
     bibtex: ./assets/publications/2020_bigdata/bib.txt
@@ -20,18 +20,18 @@ main:
     # notes: Under review (2023).
 
   - title: Proposal of Novel Image Compression Algorithmusing Kmean Clustering for VDI in Cloud Computing
-    authors: Quoc H. Nguyen*, Eui-Nam Huh
+    authors: Quoc H. Nguyen*, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa, Eui-Nam Huh
     conference_short: ICNGC
-    conference: 2016 1st International Conference on Next Generation Computing (ICNGC).
+    conference: 2016 1st International Conference on Next Generation Computing (ICNGC), Bangkok, Thailand.
     pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
     # image: ./assets/publications/DSC/AE_frame3.png
     # notes: Accepted.
     
-  - title: Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS
+  - title: An Efficient Platform for Mobile Application Development on Cloud Environments
     authors: Soumyadeep Hore*, Quoc H. Nguyen*, Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
     conference_short: DSC
-    conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023).
+    conference: 2016 3rd International Conference on Computer Applications and Infomation Processing Technology, Yangon, Myanmar.
     pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
     code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/DSC/AE_frame3.png
