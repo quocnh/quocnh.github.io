@@ -12,7 +12,7 @@ canonical: https://quocnh.github.io/
 description: Quoc H. Nguyen is a Ph.D candidate at University of South Florida. His research lies in federated learning, internet of medical things and image generation.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
@@ -31,13 +31,13 @@ favicon: ./assets/img/usf_logo.png
 favicon_dark: ./assets/img/usf_logo.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
+# footnote: Feel free to use my website's source code.
 footnote_link: https://quocnh.github.io/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+# clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:
