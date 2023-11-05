@@ -4,15 +4,12 @@
 
 <ul>
   <li>
-    Head Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
+    Teaching Assistant, <a href="">ESI 4244 Design of Experiments</a> at <a href="https://catalog.usf.edu/preview_course_nopop.php?catoid=13&coid=45748">University of South Florida</a>, 2023
   </li>
   <li>
-    Student Mentor, <a href="https://sites.google.com/view/cvpr-academy/">CVPR Academy</a> at <a href="https://cvpr2022.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</a>, 2022
+    Teaching Assistant, <a href="">IME 461 Quality Assurance and Control</a> at <a href="https://catalog.ndsu.edu/course-catalog/descriptions/ime/">North Dakota State University</a>, 2020, 2021
   </li>
-  <li>
-    Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss21/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute</a>, 2021
-  </li>
-  <li>
-    Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
+ <li>
+    Teaching Assistant, <a href=""> IME 456 Program and Project Management</a> at <a href="https://catalog.ndsu.edu/course-catalog/descriptions/ime/">North Dakota State University</a>, 2019
   </li>
 </ul>
