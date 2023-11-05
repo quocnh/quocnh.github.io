@@ -20,7 +20,7 @@ main:
     image: ./assets/publications/dfmri/fig_framework_df.png
     notes: Under review (2023).
 
-  - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
+  - title: A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
     authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
     conference_short: Preprint
     conference: IEEE Computational Intelligence Magazine (CIM).
