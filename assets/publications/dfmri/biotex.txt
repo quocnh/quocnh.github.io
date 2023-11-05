@@ -1,0 +1,6 @@
+@article{nguyen2023class,
+  title={Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis},
+  author={Nguyen, Quoc and Le, Trung and Nguyen, Thang and Nguyen Nhat, Minh},
+  year={2023},
+  publisher={TechRxiv}
+}
