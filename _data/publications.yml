@@ -1,11 +1,11 @@
 main:
 
-  - title: ABC Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: FedNIDS: A Federated Learning Framework for Packet-based Network Intrusion Detection System
     authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
     conference: 
     pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: 
     bibtex: 
     image: ./assets/publications/fednids/fednids.png
     # notes: Early Accept
