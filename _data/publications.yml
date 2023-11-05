@@ -10,15 +10,15 @@ main:
     image: ./assets/publications/fednids/fednids.png
     # notes: Early Accept
 
-  - title: Continual Detection Transformer for Incremental Object Detection
-    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-    pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
-    code: https://github.com/yaoyao-liu/CL-DETR
-    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
-    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/0001SV023.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_1.png
+  - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
+    authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
+    conference_short: Preprint
+    conference: IEEE Computational Intelligence Magazine (CIM), 2023.
+    pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
+    code: https://github.com/quocnh/DFMRI
+    # page: 
+    bibtex: ./assets/publications/dfmri/biotex.txt
+    image: https://github.com/quocnh/DFMRI/blob/main/fig_framework_df.png
   # - title: FedNIDS: A Federated Learning Framework for Packet-based Network Intrusion Detection System
   #   authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
   #   conference_short: Preprint
