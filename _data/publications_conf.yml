@@ -7,7 +7,7 @@ main:
     pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
     code: https://github.com/quocnh/AE_Framework
     # bibtex: 
-    image: https://github.com/quocnh/AE_Framework/blob/main/AE_frame3.png
+    image: ./assets/publications/DSC/AE_frame3.png
     notes: Accepted.
 
   - title: Developing an Architecture for IoT Interoperability in Healthcare: A Case Study of Real-time SpO2 Signal Monitoring and Analysis
