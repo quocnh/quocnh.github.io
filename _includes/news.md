@@ -9,8 +9,8 @@
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
-<li><strong>[Feb. 2022]</strong> I got the USENIX’s Student Grant <a href="https://www.usenix.org/conference/enigma2022">2022 Enigma Conference, Santa Clara, USA</a>. </li>
-  
+<li><strong>[Feb. 2022]</strong> I got the USENIX’s Student Travel Grant <a href="https://www.usenix.org/conference/enigma2022">2022 Enigma Conference, Santa Clara, USA</a>. Sponsored by USENIX-The Advanced Computing Systems Association</li>
+<li><strong>[Feb. 2021]</strong> I got Student Travel Grant <a href="https://www.usenix.org/conference/enigma2022">2021 Vision Conference, Washington DC, USA</a>. Sponsored by Bridges International USA</li>  
 </div>
 
 </ul>
