@@ -1,38 +1,23 @@
 main:
 
-  # - title: FedNIDS: A Federated Learning Framework for Packet-based Network Intrusion Detection System
-  #   authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup>#</sup></strong>, Alan Yuille (<sup>#</sup>Corresponding author)
-  #   conference_short: Preprint
-  #   conference: Under review.
-  #   pdf: https://arxiv.org/pdf/2306.08103.pdf
-  #   bibtex: https://bib.yliu.me/arXiv23_1.txt
-  #   image: https://img.yliu.me/teaser/dst.png
-
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
-  #   image: https://img.yliu.me/teaser/miccai2023.png
-  #   notes: Early Accept
-  - title: FedNIDS: A Federated Learning Framework for Packet-based Network Intrusion Detection System
-    authors: Quoc H. Nguyen∗, Soumyadeep Hore∗, Ankit Shah, Trung Le, and Nathaniel D. Bastian
+  - title: FedNIDS A Federated Learning Framework for Packet-based Network Intrusion Detection System
+    authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
-    conference: Under review.
+    conference: 2023
     pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
+    code: 
     bibtex: 
     image: ./assets/publications/fednids/fednids.png
+    notes: Under review.
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
-    image: https://img.yliu.me/teaser/miccai2023.png
-    notes: Early Accept
+  - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
+    authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
+    conference_short: Preprint
+    conference: IEEE Computational Intelligence Magazine (CIM).
+    pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
+    code: https://github.com/quocnh/DFMRI
+    bibtex: ./assets/publications/dfmri/biotex.txt
+    image: https://github.com/quocnh/DFMRI/blob/main/fig_framework_df.png
+    notes: Under review.
 
 
