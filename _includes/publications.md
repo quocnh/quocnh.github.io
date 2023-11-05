@@ -8,6 +8,7 @@
 
 <h4 style="margin:0 10px 0;">Peer-reviewed Journals</h4>
 
+
 {% for link in site.data.publications.main %}
 
 <li>
@@ -46,6 +47,8 @@
 </li>
 
 <br>
+
+<h4 style="margin:0 10px 0;">Peer-reviewed Conferences</h4>
 
 {% endfor %}
 
