@@ -2,7 +2,7 @@ main:
 
   - title: ABC Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: 
-    conference_short: MICCAI
+    conference_short: Preprint
     conference: 
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
