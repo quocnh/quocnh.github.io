@@ -14,7 +14,7 @@ main:
     authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
     conference_short: Preprint
     conference: IEEE Computational Intelligence Magazine (CIM), 2023.
-    pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
+    pdf: 
     code: https://github.com/quocnh/DFMRI
     # page: 
     bibtex: ./assets/publications/dfmri/biotex.txt
