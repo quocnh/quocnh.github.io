@@ -1,6 +1,6 @@
 main:
 
-  - title: FedNIDS-A Federated Learning Framework for Packet-based Network Intrusion Detection System
+  - title: 1. FedNIDS-A Federated Learning Framework for Packet-based Network Intrusion Detection System
     authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
     conference: 
@@ -10,7 +10,7 @@ main:
     image: ./assets/publications/fednids/fednids.png
     notes: Under review (2023).
 
-  - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
+  - title: 2. Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
     authors: Quoc H. Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
     conference_short: Preprint
     conference: IEEE Computational Intelligence Magazine (CIM).
@@ -20,7 +20,7 @@ main:
     image: ./assets/publications/dfmri/fig_framework_df.png
     notes: Under review (2023).
 
-  - title: A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
+  - title: 3. A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
     authors: Quoc H. Nguyen*, Chau Le, Chuan Pham, Minh Nguyen, Dung Nguyen, Arveity Setty, Trung Le
     conference_short: Preprint
     conference: 
