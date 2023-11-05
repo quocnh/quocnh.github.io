@@ -9,7 +9,7 @@ main:
     image: ./assets/publications/DSC/AE_frame3.png
     notes: Accepted.
 
-  - title: Developing an Architecture for IoT Interoperability in Healthcare: A Case Study of Real-time SpO2 Signal Monitoring and Analysis
+  - title: Developing an Architecture for IoT Interoperability in Healthcare-A Case Study of Real-time SpO2 Signal Monitoring and Analysis
     authors: Quoc H. Nguyen*, Quang Dang, Chuan Pham, Tien-Dung Nguyen, Hang Nguyen, Arveity Setty, Trung Le
     conference_short: BigData
     conference: 2020 IEEE International Conference on Big Data (BigData).
