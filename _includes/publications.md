@@ -48,9 +48,9 @@
 
 <br>
 
-<h4 style="margin:0 10px 0;">Peer-reviewed Conferences</h4>
-
 {% endfor %}
+
+<h4 style="margin:0 10px 0;">Peer-reviewed Conferences</h4>
 
 <!---<li>
 <div class="pub-row">
