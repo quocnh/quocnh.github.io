@@ -1,14 +1,14 @@
 main:
 
   - title: ABC Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: 
+    authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
     conference: 
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
-    image: https://img.yliu.me/teaser/miccai2023.png
-    notes: Early Accept
+    bibtex: 
+    image: ./assets/publications/fednids/fednids.png
+    # notes: Early Accept
 
   - title: Continual Detection Transformer for Incremental Object Detection
     authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
