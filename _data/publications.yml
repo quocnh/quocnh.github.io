@@ -31,7 +31,7 @@ main:
     notes: Under review (2023).
 
   - title: Prediction-based energy policy for mobile virtual desktop infrastructure in a cloud environment
-    authors: Tien-Dung Nguyen, Pham Phuoc Hung, Tran Hoang Dai, **Quoc H. Nguyen**, Cong-Thinh Huynh, Eui-Nam Huh
+    authors: Tien-Dung Nguyen, Pham Phuoc Hung, Tran Hoang Dai, Quoc H. Nguyen, Cong-Thinh Huynh, Eui-Nam Huh
     conference_short: IS
     conference: Information Sciences (IS)
     pdf: ./assets/publications/is/is_paper.pdf
@@ -41,7 +41,7 @@ main:
     # notes: Under review (2023).
 
   - title: Gaussian process for predicting CPU utilization and its application to energy efficiency
-    authors: Dinh-Mao Bui, **Quoc H. Nguyen**, YongIk Yoon, SungIk Jun, Muhammad Bilal Amin & Sungyoung Lee 
+    authors: Dinh-Mao Bui, Quoc H. Nguyen, YongIk Yoon, SungIk Jun, Muhammad Bilal Amin & Sungyoung Lee 
     conference_short: AI
     conference: Applied Intelligence (AI)
     pdf: ./assets/publications/ai/ai_paper.pdf
