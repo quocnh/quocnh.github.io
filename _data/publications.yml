@@ -5,7 +5,7 @@ main:
     conference_short: Preprint
     conference: Under review.
     pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
-    bibtex: 
+    # bibtex: 
     image: ./assets/publications/fednids/fednids.png
 
   - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
@@ -16,6 +16,6 @@ main:
     code: https://github.com/quocnh/DFMRI
     bibtex: ./assets/publications/dfmri/biotex.txt
     image: https://github.com/quocnh/DFMRI/blob/main/fig_framework_df.png
-    notes: 
+    # notes: 
 
 
