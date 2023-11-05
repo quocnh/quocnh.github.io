@@ -1,6 +1,6 @@
 main:
 
-  - title: FedNIDS: A Federated Learning Framework for Packet-based Network Intrusion Detection System
+  - title: FedNIDS A Federated Learning Framework for Packet-based Network Intrusion Detection System
     authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
     conference: 
