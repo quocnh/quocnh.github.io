@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9378200,
+  author={Nguyen, Quoc H. and Dang, Quang and Pham, Chuan and Nguyen, Tien-Dung and Nguyen, Hang and Setty, Arveity and Le, Trung Quoc},
+  booktitle={2020 IEEE International Conference on Big Data (Big Data)}, 
+  title={Developing an Architecture for IoT Interoperability in Healthcare: A Case Study of Real-time SpO2 Signal Monitoring and Analysis}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={3394-3403},
+  doi={10.1109/BigData50022.2020.9378200}}
