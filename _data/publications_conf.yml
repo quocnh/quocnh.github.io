@@ -32,10 +32,10 @@ main:
     authors: Quoc H. Nguyen, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa ar, Eui-Nam Huh
     conference_short: CAIPT
     conference: 2015 The 3rd International Conference on Computer Applications and Infomation Processing Technology (CAIPT), Yangon, Myanmar.
-    pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
-    code: https://github.com/quocnh/AE_Framework
+    pdf: ./assets/publications/2015_caipt/paper.pdf
+    # code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/DSC/AE_frame3.png
-    notes: Accepted.
+    # notes: Accepted.
     
   - title: Low cost real-time system monitoring using Raspberry Pi
     authors: Quoc H. Nguyen*, Ton Thi Kim Loan, Bui Dinh Mao, Eui-Nam Huh
