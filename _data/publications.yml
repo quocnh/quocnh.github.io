@@ -17,7 +17,7 @@ main:
     pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
     code: https://github.com/quocnh/DFMRI
     bibtex: ./assets/publications/dfmri/biotex.txt
-    image: https://github.com/quocnh/DFMRI/blob/main/fig_framework_df.png
+    image: ./assets/publications/dfmri/fig_framework_df.png
     notes: Under review.
 
 
