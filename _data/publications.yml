@@ -31,23 +31,24 @@ main:
     notes: Under review (2023).
 
   - title: Prediction-based energy policy for mobile virtual desktop infrastructure in a cloud environment
-    authors: Tien-Dung Nguyen, Pham Phuoc Hung, Tran Hoang Dai, *Quoc H. Nguyen*, Cong-Thinh Huynh, Eui-Nam Huh
+    authors: Tien-Dung Nguyen, Pham Phuoc Hung, Tran Hoang Dai, **Quoc H. Nguyen**, Cong-Thinh Huynh, Eui-Nam Huh
     conference_short: IS
     conference: Information Sciences (IS)
     pdf: ./assets/publications/is/is_paper.pdf
-    # pages: 
+    page: https://doi.org/10.1016/j.ins.2015.02.022
     bibtex: ./assets/publications/is/is.txt
     image: ./assets/publications/is/is.png
     # notes: Under review (2023).
 
-  - title: A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
-    authors: Quoc H. Nguyen*, Chau Le, Chuan Pham, Minh Nguyen, Dung Nguyen, Arveity Setty, Trung Le
-    conference_short: Preprint
-    conference: 
-    pdf: ./assets/publications/hybrid_centric/A_Hybrid_Data_Centric_and_Model_Centric_Approach_Towards_Robust_Single_Lead_ECG_Obstructive_Sleep_Apnea_Diagnosis.pdf
-    code: https://github.com/quocnh/Hybrid_Centric
-    bibtex: 
-    image: ./assets/publications/hybrid_centric/hybrid.png
-    notes: Under review (2023).
+  - title: Gaussian process for predicting CPU utilization and its application to energy efficiency
+    authors: Dinh-Mao Bui, **Quoc H. Nguyen**, YongIk Yoon, SungIk Jun, Muhammad Bilal Amin & Sungyoung Lee 
+    conference_short: AI
+    conference: Applied Intelligence (AI)
+    pdf: ./assets/publications/ai/ai_paper.pdf
+    page: https://doi.org/10.1007/s10489-015-0688-4
+    # code: https://github.com/quocnh/Hybrid_Centric
+    bibtex: ./assets/publications/ai/ai.txt
+    image: ./assets/publications/ai/ai.png
+    # notes: Under review (2023).
 
 
