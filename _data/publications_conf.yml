@@ -20,19 +20,28 @@ main:
     # notes: Under review (2023).
 
   - title: Proposal of Novel Image Compression Algorithmusing Kmean Clustering for VDI in Cloud Computing
-    authors: Huu-Quoc Nguyen*, Eui-Nam Huh
+    authors: Quoc H. Nguyen*, Eui-Nam Huh
     conference_short: ICNGC
-    conference: 2016 1st International Conference on Next Generation Computing (ICNGC), Bangkok, Thailand.
+    conference: 2016 The 1st International Conference on Next Generation Computing (ICNGC), Bangkok, Thailand.
     pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
     # image: ./assets/publications/DSC/AE_frame3.png
     # notes: Accepted.
-    
+
   - title: An Efficient Platform for Mobile Application Development on Cloud Environments
-    authors: Quoc H. Nguyen*, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa, Eui-Nam Huh
-    conference_short: ICCAIPT
-    conference: 2016 3rd International Conference on Computer Applications and Infomation Processing Technology (ICCAIPT), Yangon, Myanmar.
-    pdf: ./assets/publications/2015_caipt/paper.pdf
+    authors: Quoc H. Nguyen, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa ar, Eui-Nam Huh
+    conference_short: CAIPT
+    conference: 2015 The 3rd International Conference on Computer Applications and Infomation Processing Technology (CAIPT), Yangon, Myanmar.
+    pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
+    code: https://github.com/quocnh/AE_Framework
+    image: ./assets/publications/DSC/AE_frame3.png
+    notes: Accepted.
+    
+  - title: Low cost real-time system monitoring using Raspberry Pi
+    authors: Quoc H. Nguyen*, Ton Thi Kim Loan, Bui Dinh Mao, Eui-Nam Huh
+    conference_short: ICNGC
+    conference:  2015 The 7th IEEE International Conference on Ubiquitous and Future Networks (ICNGC), Sapporo, Japan.
+    pdf: ./assets/publications/2016_icngc
     # code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/DSC/AE_frame3.png
     # notes: Accepted.
@@ -46,8 +55,8 @@ main:
     image: ./assets/publications/DSC/AE_frame3.png
     notes: Accepted.
     
-  - title: Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS
-    authors: Soumyadeep Hore*, Quoc H. Nguyen*, Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
+  - title: A Novel Efficient Approach for Screen Image Classification in Remote Display Protocol
+    authors: X.-Q. Pham, T.-D. Nguyen, C.-T.Huynh, P.-H. Pham, Quoc H. Nguyen and E. N. Huh,
     conference_short: DSC
     conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023).
     pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
@@ -55,12 +64,5 @@ main:
     image: ./assets/publications/DSC/AE_frame3.png
     notes: Accepted.
     
-  - title: Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS
-    authors: Soumyadeep Hore*, Quoc H. Nguyen*, Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
-    conference_short: DSC
-    conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023).
-    pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
-    code: https://github.com/quocnh/AE_Framework
-    image: ./assets/publications/DSC/AE_frame3.png
-    notes: Accepted.
+
 
