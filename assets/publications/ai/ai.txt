@@ -1,0 +1,9 @@
+@article{bui2015gaussian,
+  title={Gaussian process for predicting CPU utilization and its application to energy efficiency},
+  author={Bui, Dinh-Mao and Nguyen, Huu-Quoc and Yoon, YongIk and Jun, SungIk and Amin, Muhammad Bilal and Lee, Sungyoung},
+  journal={Applied Intelligence},
+  volume={43},
+  pages={874--891},
+  year={2015},
+  publisher={Springer}
+}
