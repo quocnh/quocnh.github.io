@@ -23,7 +23,7 @@ main:
     authors: Quoc H. Nguyen*, Eui-Nam Huh
     conference_short: ICNGC
     conference: 2016 1st International Conference on Next Generation Computing (ICNGC).
-    pdf: ./assets/publications/2016_icngc/Thailand_ICNGC2016_Proposal of Novel Image Compression Algorithmusing Kmean Clustering for VDI in Cloud Computing.pdf
+    pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
     # image: ./assets/publications/DSC/AE_frame3.png
     # notes: Accepted.
