@@ -28,7 +28,7 @@
 <h4 style="margin:0 10px 0;">Low cost real-time system monitoring using Raspberry Pi.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Seventh IEEE International Conference on Ubiquitous and Future Networks, Sapporo, 2015</li>
+  <li>7th IEEE International Conference on Ubiquitous and Future Networks, Sapporo, 2015</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Android-based Low-Cost Control System for Smart Home using Raspberry Pi.</h4>
