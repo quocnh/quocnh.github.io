@@ -10,15 +10,7 @@ main:
     image: ./assets/publications/fednids/fednids.png
     # notes: Early Accept
 
-  - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
-    authors: Quoc Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
-    conference_short: Preprint
-    conference: IEEE Computational Intelligence Magazine (CIM), 2023.
-    pdf: 
-    code: https://github.com/quocnh/DFMRI
-    # page: 
-    bibtex: ./assets/publications/dfmri/biotex.txt
-    image: https://github.com/quocnh/DFMRI/blob/main/fig_framework_df.png
+
   # - title: FedNIDS: A Federated Learning Framework for Packet-based Network Intrusion Detection System
   #   authors: Quoc H. Nguyen*, Soumyadeep Hore*, Ankit Shah, Trung Le, and Nathaniel D. Bastian
   #   conference_short: Preprint
