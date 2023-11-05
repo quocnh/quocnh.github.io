@@ -20,14 +20,5 @@ main:
     image: ./assets/publications/dfmri/fig_framework_df.png
     notes: Under review (2023).
 
-  - title: A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
-    authors: Quoc H. Nguyen*, Chau Le, Chuan Pham, Minh Nguyen, Dung Nguyen, Arveity Setty, Trung Le
-    conference_short: Preprint
-    conference: 
-    pdf: ./assets/publications/hybrid_centric/A_Hybrid_Data_Centric_and_Model_Centric_Approach_Towards_Robust_Single_Lead_ECG_Obstructive_Sleep_Apnea_Diagnosis.pdf
-    code: https://github.com/quocnh/Hybrid_Centric
-    bibtex: 
-    image: ./assets/publications/hybrid_centric/hybrid.png
-    notes: Under review (2023).
 
 
