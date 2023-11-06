@@ -100,9 +100,9 @@
             <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.html">Meta-Transfer Learning for Few-Shot Learning</a></div>
-      <div class="author">Qianru Sun*, <strong>Yaoyao Liu*</strong>, Tat-Seng Chua, Bernt Schiele (*Equal contribution)</div>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.</em>
+      <div class="title"><a href="https://doi.org/10.1109/ICUFN.2015.7182665">Low cost real-time system monitoring using Raspberry Pi</a></div>
+      <div class="author"><strong>Quoc H. Nguyen*</strong>, Ton Thi Kim Loan, Bui Dinh Mao, Eui-Nam Huh</div>
+      <div class="periodical"><em>2015 The 7th IEEE International Conference on Ubiquitous and Future Networks (ICNGC), Sapporo, Japan.</em>
       </div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
