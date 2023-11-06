@@ -5,7 +5,7 @@ main:
     right: true 
     
   - title: Posts
-    url: /posts
+    url: /posts.html
   #- title: "Services"
   #  url: ./#services
 
