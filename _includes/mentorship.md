@@ -1,31 +1,18 @@
-<h1 id="services"></h1>
+<h1 id="mentorship"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Services</h2>
+<h2 style="margin: 60px 0px 10px;">Mentorship</h2>
 
-<h4 style="margin:0 10px 0;">Session Chairs</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/"><autocolor>2023 INFORMS Annual Meeting, Phoenix, USA.</autocolor></a></li>
-  <li><a href="https://meetings.informs.org/wordpress/indianapolis2022/"><autocolor> 2022 INFORMS Annual Meeting, Indianapolis, USA.</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Research Experience for Undergraduates (REU) Program</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://atc-conf.org/"><autocolor>2023 International Conference On Advanced Technologies For Communications</autocolor></a></li>
-  <li><a href="https://infocom2015.ieee-infocom.org/index.html"><autocolor>2015 IEEE Conference on Computer Communications</autocolor></a></li>
+  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/"><autocolor>Taranatee Khan, “Federated Learning for Internet of Medical Things”, Jun-Aug 2022</autocolor></a></li>
+  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/"><autocolor>Adeoye Olomodosi, “IoT system for OSA Monitoring in Cancer Patient”, Jun-Aug 2021</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">ECE Capstone Project, NDSU</h4>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8856"><autocolor>IEEE Transactions on Automation Science and Engineering</autocolor></a></li>
-  <li><a href="https://www.mdpi.com/journal/sensors"><autocolor>Sensors</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://atc-conf.org/"><autocolor>Quang Dang, “Point-of-care Obstructive Sleep Apnea (OSA) Monitoring and Forecasting Platform for Cancer Patients”, 2019-2020.</autocolor></a></li>
+  <li><a href="https://infocom2015.ieee-infocom.org/index.html"><autocolor>. Hoskins, Thomas; Stein, Karl; Cummings, Charles; Utke, James,“ Developing Smart Internet of Things (IoT) Device for Healthcare Edge Computing System”, Spring 2021.</autocolor></a></li>
 </ul>
-<h4 style="margin:0 10px 0;">Others</h4>
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.youtube.com/watch?v=j5FrIn6Ygek"><autocolor>Field Assistant. First LEGO League. Assisting the refs and resetting the boards, hosted by robotics - the College of Engineering, NDSU</autocolor></a></li>
-  <li><a href="https://www.dakotasleepsociety.com/"><autocolor> Web developer - Dakota Sleep Society Group, USA. Developed a website for raising fundings for a charity organization in North Dakota Stat</autocolor></a></li>
-  <li><autocolor>President of Badminton Club (2021-2022) and Vice President of Vietnamese Group at NDSU (2021-2022)</autocolor></li>
-</ul>
+
