@@ -120,7 +120,7 @@
   <script>
       $(document).ready(function () {
           
-          var gsDataBaseUrl = 'https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/'
+          var gsDataBaseUrl = 'https://raw.githubusercontent.com/quocnh/quocnh.github.io/'
           
           $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
               var totalCitation = data['publications']['Uf9GqRsAAAAJ:bEWYMUwI8FkC']['num_citations']
