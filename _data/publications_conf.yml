@@ -54,7 +54,7 @@ main:
     image: ./assets/publications/2015_qui/qui.png
     # notes: Accepted.
     
-  - title: Cost efficient real-time applications scheduling in mobile cloud computing
+  - title: Cloud-based Real-time location tracking and messaging system- A child-care case study
     authors: Cong-Thinh Huynh, Tien-Dung Nguyen, <strong>Quoc H. Nguyen</strong>, Eui-Nam Huh
     conference_short: 2015 ACM IMCOM
     conference: 2015 The Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication (IMCOM), New York, USA.
