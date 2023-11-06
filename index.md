@@ -27,3 +27,5 @@ University, South Korea](https://www.khu.ac.kr/eng/main/index.do), from 2014 to 
 {% include_relative _includes/services.md %}
 
 <!---{% include_relative _includes/contact.md %}--->
+
+[View all posts](/posts.html)
