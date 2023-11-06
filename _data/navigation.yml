@@ -4,8 +4,8 @@ main:
     url: ./#contact 
     right: true 
     
-  - title: Posts
-    url: /posts.html
+  # - title: Posts
+  #   url: /posts.html
   #- title: "Services"
   #  url: ./#services
 
