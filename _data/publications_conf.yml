@@ -12,7 +12,7 @@ main:
   - title: Developing an Architecture for IoT Interoperability in Healthcare-A Case Study of Real-time SpO2 Signal Monitoring and Analysis
     authors: Quoc H. Nguyen*, Quang Dang, Chuan Pham, Tien-Dung Nguyen, Hang Nguyen, Arveity Setty, Trung Le
     conference_short: BigData
-    conference: 2020 IEEE International Conference on Big Data (BigData), Atlanta, USA.
+    conference: 2020 IEEE International Conference on Big Data (IEEE BigData), Atlanta, USA.
     pdf: ./assets/publications/2020_bigdata/Developing_an_Architecture_for_IoT_Interoperability_in_Healthcare_A_Case_Study_of_Real-time_SpO2_Signal_Monitoring_and_Analysis.pdf
     page: https://doi.org/10.1109/BigData50022.2020.9378200
     bibtex: ./assets/publications/2020_bigdata/bib.txt
@@ -25,7 +25,7 @@ main:
     conference: 2016 The 1st International Conference on Next Generation Computing (ICNGC), Bangkok, Thailand.
     pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
-    # image: ./assets/publications/2023_DSC/AE_frame3.png
+    image: ./assets/publications/2016_icngc/icngc.png
     # notes: Accepted.
 
   - title: An Efficient Platform for Mobile Application Development on Cloud Environments
@@ -34,16 +34,16 @@ main:
     conference: 2015 The 3rd International Conference on Computer Applications and Infomation Processing Technology (CAIPT), Yangon, Myanmar.
     pdf: ./assets/publications/2015_caipt/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
-    image: ./assets/publications/2023_DSC/AE_frame3.png
+    image: ./assets/publications/2015_caipt/caipt.png
     # notes: Accepted.
     
   - title: Low cost real-time system monitoring using Raspberry Pi
     authors: Quoc H. Nguyen*, Ton Thi Kim Loan, Bui Dinh Mao, Eui-Nam Huh
     conference_short: ICNGC
     conference:  2015 The 7th IEEE International Conference on Ubiquitous and Future Networks (ICNGC), Sapporo, Japan.
-    pdf: ./assets/publications/2016_icngc
+    pdf: ./assets/publications/2016_icufn/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
-    image: ./assets/publications/2023_DSC/AE_frame3.png
+    image: ./assets/publications/2016_icufn/icufn.png
     # notes: Accepted.
     
   - title: A Novel Efficient Approach for Screen Image Classification in Remote Display Protocol
