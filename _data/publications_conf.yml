@@ -26,7 +26,7 @@ main:
     pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/2016_icngc/icngc.png
-    # notes: Accepted.
+    notes: 100+ citations.
 
   - title: An Efficient Platform for Mobile Application Development on Cloud Environments
     authors: <strong>Quoc H. Nguyen*</strong>, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa ar, Eui-Nam Huh
