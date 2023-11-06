@@ -105,15 +105,13 @@
       <div class="periodical"><em>2015 The 7th IEEE International Conference on Ubiquitous and Future Networks (ICNGC), Sapporo, Japan.</em>
       </div>
     <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://lyy.mpi-inf.mpg.de/mtl/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/SunLCS19.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://quocnh.github.io/assets/publications/2016_icufn/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1109/ICUFN.2015.7182665" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
 <br>
-<strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uf9GqRsAAAAJ&citation_for_view=Uf9GqRsAAAAJ:bEWYMUwI8FkC"><i id="total_citation_mtl">800+</i><i style="color:#e74d3c; font-weight:600"> Citations • </i></a><a href="https://github.com/yaoyao-liu/meta-transfer-learning" target="_blank" rel="noopener"><i style="color:#e74d3c; font-weight:600" id="githubstars_mtl">600+</i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></a> <a style="color:#e74d3c; font-weight:600" href="https://www.comp.nus.edu.sg/news/archives/y2019/2019-cvpr-research/">• <i>Featured in NUS News</i></a></strong>
+<strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yikSJwMAAAAJ&citation_for_view=yikSJwMAAAAJ:tOudhMTPpwUC"><i id="total_citation_mtl">100+</i><i style="color:#e74d3c; font-weight:600"> Citations 
 <br>
-<strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2023&vq=en&cstart=100"><i>Top 120 Most Cited CVPR Papers over the Last Five Years</i></a></strong>
-  <script>
+<!-- <strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2023&vq=en&cstart=100"><i>Top 120 Most Cited CVPR Papers over the Last Five Years</i></a></strong> -->
+<!--   <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
         startext.innerHTML=stars;
@@ -135,7 +133,7 @@
               });
           });
       })
-  </script>
+  </script> -->
     </div>
   </div>
 </div>
