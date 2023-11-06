@@ -1,7 +1,7 @@
 main:
 
   - title: Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS
-    authors: Soumyadeep Hore*, Quoc H. Nguyen*, Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
+    authors: Soumyadeep Hore*, <strong>Quoc H. Nguyen*</strong> (equal contribution), Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
     conference_short: 2023 IEEE DSC
     conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023), Tampa, Florida, USA.
     pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
