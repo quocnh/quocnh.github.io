@@ -11,7 +11,7 @@ main:
     notes: Under review (2023).
 
   - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
-    authors: Quoc H. Nguyen*, Thang Nguyen, Minh Nguyen, Trung Le
+    authors: <strong>Quoc H. Nguyen*</strong>, Thang Nguyen, Minh Nguyen, Trung Le
     conference_short: Preprint
     conference: IEEE Computational Intelligence Magazine (CIM).
     pdf: https://www.techrxiv.org/articles/preprint/Class_Label_Conditioning_Diffusion_Model_for_Robust_Brain_Tumor_MRI_Synthesis/24243829
@@ -21,7 +21,7 @@ main:
     notes: Under review (2023).
 
   - title: A Hybrid Data-Centric and Model-Centric Approach Towards Robust Single-Lead ECG Obstructive Sleep Apnea Diagnosis
-    authors: Quoc H. Nguyen*, Chau Le, Chuan Pham, Minh Nguyen, Dung Nguyen, Arveity Setty, Trung Le
+    authors: <strong>Quoc H. Nguyen*</strong>, Chau Le, Chuan Pham, Minh Nguyen, Dung Nguyen, Arveity Setty, Trung Le
     conference_short: Preprint
     conference: 
     pdf: ./assets/publications/hybrid_centric/A_Hybrid_Data_Centric_and_Model_Centric_Approach_Towards_Robust_Single_Lead_ECG_Obstructive_Sleep_Apnea_Diagnosis.pdf
@@ -31,7 +31,7 @@ main:
     notes: Under review (2023).
 
   - title: Prediction-based energy policy for mobile virtual desktop infrastructure in a cloud environment
-    authors: Tien-Dung Nguyen, Pham Phuoc Hung, Tran Hoang Dai, Quoc H. Nguyen, Cong-Thinh Huynh, Eui-Nam Huh
+    authors: Tien-Dung Nguyen, Pham Phuoc Hung, Tran Hoang Dai, <strong>Quoc H. Nguyen</strong>, Cong-Thinh Huynh, Eui-Nam Huh
     conference_short: IS
     conference: Information Sciences (IS)
     pdf: ./assets/publications/is/is_paper.pdf
@@ -41,7 +41,7 @@ main:
     # notes: Under review (2023).
 
   - title: Gaussian process for predicting CPU utilization and its application to energy efficiency
-    authors: Dinh-Mao Bui, Quoc H. Nguyen, YongIk Yoon, SungIk Jun, Muhammad Bilal Amin & Sungyoung Lee 
+    authors: Dinh-Mao Bui, <strong>Quoc H. Nguyen</strong>, YongIk Yoon, SungIk Jun, Muhammad Bilal Amin & Sungyoung Lee 
     conference_short: AI
     conference: Applied Intelligence (AI)
     pdf: ./assets/publications/ai/ai_paper.pdf
