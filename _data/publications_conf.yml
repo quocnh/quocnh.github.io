@@ -51,16 +51,16 @@ main:
     conference_short: DSC
     conference: 2015 The 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Shenzhen, China.
     pdf: ./assets/publications/2015_qui/paper.pdf
-    image: ./assets/publications/2023_DSC/AE_frame3.png
+    image: ./assets/publications/2015_qui/qui.png
     # notes: Accepted.
     
   - title: Cost efficient real-time applications scheduling in mobile cloud computing
     authors: Cong-Thinh Huynh, Tien-Dung Nguyen, Quoc H. Nguyen, Eui-Nam Huh
     conference_short: SoICT
     conference: 2014 The Fifth Symposium on Information and Communication Technology (SoICT), USA.
-    pdf: ./assets/publications/2014_soict
+    pdf: ./assets/publications/2014_soict/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
-    image: ./assets/publications/2023_DSC/AE_frame3.png
+    image: ./assets/publications/2014_soict/thinh.png
     # notes: Accepted.
     
   
