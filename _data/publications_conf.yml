@@ -65,7 +65,7 @@ main:
     
   - title: Cost efficient real-time applications scheduling in mobile cloud computing
     authors: Ton Thi Kim Loan, Xuan-Qui Pham, <strong>Quoc H. Nguyen</strong>, Nguyen Dao Tan Tri, Ngo Quang Thai, Eui-Nam Huh
-    conference_short: Book Chapter
+    conference_short: Book
     conference: Advances in Computer Science and Ubiquitous Computing. Lecture Notes in Electrical Engineering, vol 373. Springer, Singapore.
     page: https://doi.org/10.1007/978-981-10-0281-6_122
     image: ./assets/publications/2015_loan/loan.png
