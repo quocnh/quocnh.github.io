@@ -42,7 +42,7 @@ main:
     conference_short: 2015 IEEE ICNGC
     conference:  2015 The 7th IEEE International Conference on Ubiquitous and Future Networks (ICNGC), Sapporo, Japan.
     pdf: ./assets/publications/2016_icufn/paper.pdf
-    # code: https://github.com/quocnh/AE_Framework
+    page: https://doi.org/10.1109/ICUFN.2015.7182665
     image: ./assets/publications/2016_icufn/icufn.png
     # notes: Accepted.
     
