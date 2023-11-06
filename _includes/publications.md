@@ -111,7 +111,7 @@
 <strong> <a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yikSJwMAAAAJ&citation_for_view=yikSJwMAAAAJ:tOudhMTPpwUC"><i id="total_citation_mtl">100+</i><i style="color:#e74d3c; font-weight:600"> Citations 
 <br>
 <!-- <strong><a style="color:#e74d3c; font-weight:600" href="https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=FXe-a9w0eycJ.2023&vq=en&cstart=100"><i>Top 120 Most Cited CVPR Papers over the Last Five Years</i></a></strong> -->
-<!--   <script>
+  <script>
   githubStars("yaoyao-liu/meta-transfer-learning", function(stars) {
   var startext = document.getElementById("githubstars_mtl");
         startext.innerHTML=stars;
@@ -133,7 +133,7 @@
               });
           });
       })
-  </script> -->
+  </script>
     </div>
   </div>
 </div>
