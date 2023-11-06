@@ -2,7 +2,7 @@ main:
 
   - title: Empirical Evaluation of Autoencoder Models for Anomaly Detection in Packet-based NIDS
     authors: Soumyadeep Hore*, Quoc H. Nguyen*, Yulun Xu, Ankit Shah, Nathaniel Bastian, Trung Le
-    conference_short: DSC
+    conference_short: 2023 IEEE DSC
     conference: The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023), Tampa, Florida, USA.
     pdf: https://www.techrxiv.org/articles/preprint/Empirical_Evaluation_of_Autoencoder_Models_for_Anomaly_Detection_in_Packet-based_NIDS/24043608/1
     code: https://github.com/quocnh/AE_Framework
@@ -11,7 +11,7 @@ main:
 
   - title: Developing an Architecture for IoT Interoperability in Healthcare-A Case Study of Real-time SpO2 Signal Monitoring and Analysis
     authors: Quoc H. Nguyen*, Quang Dang, Chuan Pham, Tien-Dung Nguyen, Hang Nguyen, Arveity Setty, Trung Le
-    conference_short: BigData
+    conference_short: 2020 IEEE BigData
     conference: 2020 IEEE International Conference on Big Data (IEEE BigData), Atlanta, USA.
     pdf: ./assets/publications/2020_bigdata/Developing_an_Architecture_for_IoT_Interoperability_in_Healthcare_A_Case_Study_of_Real-time_SpO2_Signal_Monitoring_and_Analysis.pdf
     page: https://doi.org/10.1109/BigData50022.2020.9378200
@@ -21,7 +21,7 @@ main:
 
   - title: Proposal of Novel Image Compression Algorithmusing Kmean Clustering for VDI in Cloud Computing
     authors: Quoc H. Nguyen*, Eui-Nam Huh
-    conference_short: ICNGC
+    conference_short: 2016 ICNGC
     conference: 2016 The 1st International Conference on Next Generation Computing (ICNGC), Bangkok, Thailand.
     pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
@@ -30,7 +30,7 @@ main:
 
   - title: An Efficient Platform for Mobile Application Development on Cloud Environments
     authors: Quoc H. Nguyen*, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa ar, Eui-Nam Huh
-    conference_short: CAIPT
+    conference_short: 2015 CAIPT
     conference: 2015 The 3rd International Conference on Computer Applications and Infomation Processing Technology (CAIPT), Yangon, Myanmar.
     pdf: ./assets/publications/2015_caipt/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
@@ -39,7 +39,7 @@ main:
     
   - title: Low cost real-time system monitoring using Raspberry Pi
     authors: Quoc H. Nguyen*, Ton Thi Kim Loan, Bui Dinh Mao, Eui-Nam Huh
-    conference_short: ICNGC
+    conference_short: 2015 IEEE ICNGC
     conference:  2015 The 7th IEEE International Conference on Ubiquitous and Future Networks (ICNGC), Sapporo, Japan.
     pdf: ./assets/publications/2016_icufn/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
@@ -48,7 +48,7 @@ main:
     
   - title: A Novel Efficient Approach for Screen Image Classification in Remote Display Protocol
     authors: X.-Q. Pham, T.-D. Nguyen, C.-T.Huynh, P.-H. Pham, Quoc H. Nguyen and E. N. Huh,
-    conference_short: DSC
+    conference_short: 2015 ACM ISCCGC
     conference: 2015 The 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Shenzhen, China.
     pdf: ./assets/publications/2015_qui/paper.pdf
     image: ./assets/publications/2015_qui/qui.png
@@ -56,8 +56,8 @@ main:
     
   - title: Cost efficient real-time applications scheduling in mobile cloud computing
     authors: Cong-Thinh Huynh, Tien-Dung Nguyen, Quoc H. Nguyen, Eui-Nam Huh
-    conference_short: SoICT
-    conference: 2014 The Fifth Symposium on Information and Communication Technology (SoICT), USA.
+    conference_short: 2015 ACM IMCOM
+    conference: 2015 The Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication (IMCOM), New York, USA.
     pdf: ./assets/publications/2014_soict/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/2014_soict/thinh.png
