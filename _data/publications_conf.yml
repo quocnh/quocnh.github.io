@@ -26,7 +26,6 @@ main:
     pdf: ./assets/publications/2016_icngc/paper.pdf
     # code: https://github.com/quocnh/AE_Framework
     image: ./assets/publications/2016_icngc/icngc.png
-    notes: 100+ citations.
 
   - title: An Efficient Platform for Mobile Application Development on Cloud Environments
     authors: <strong>Quoc H. Nguyen*</strong>, Tien-Dung Nguyen, Phuoc-Hung Pham, Xuan-Qui Pham, Aymen Abdullah Alsa ar, Eui-Nam Huh
@@ -44,7 +43,7 @@ main:
     pdf: ./assets/publications/2016_icufn/paper.pdf
     page: https://doi.org/10.1109/ICUFN.2015.7182665
     image: ./assets/publications/2016_icufn/icufn.png
-    # notes: Accepted.
+    notes: 100+ citations.
     
   - title: A Novel Efficient Approach for Screen Image Classification in Remote Display Protocol
     authors: X.-Q. Pham, T.-D. Nguyen, C.-T.Huynh, P.-H. Pham, <strong>Quoc H. Nguyen</strong> and E. N. Huh,
