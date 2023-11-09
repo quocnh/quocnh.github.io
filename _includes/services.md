@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Session Chairs</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/"><autocolor>2023 INFORMS Annual Meeting, Phoenix, USA.</autocolor></a></li>
+  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/">2023 INFORMS Annual Meeting, Phoenix, USA.</a></li>
   <li><a href="https://meetings.informs.org/wordpress/indianapolis2022/"><autocolor> 2022 INFORMS Annual Meeting, Indianapolis, USA.</autocolor></a></li>
 </ul>
 
