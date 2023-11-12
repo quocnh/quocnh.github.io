@@ -5,15 +5,15 @@
 <h4 style="margin:0 10px 0;">Session Chairs</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/">2023 INFORMS Annual Meeting, Phoenix, USA.</a></li>
-  <li><a href="https://meetings.informs.org/wordpress/indianapolis2022/">2022 INFORMS Annual Meeting, Indianapolis, USA.</a></li>
+  <li><a href="https://meetings.informs.org/wordpress/phoenix2023/">INFORMS Annual Meeting, Phoenix, USA, 2023.</a></li>
+  <li><a href="https://meetings.informs.org/wordpress/indianapolis2022/">INFORMS Annual Meeting, Indianapolis, USA, 2022.</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://atc-conf.org/">2023 International Conference on Advanced Technologies For Communications</a></li>
-  <li><a href="https://infocom2015.ieee-infocom.org/index.html">2015 IEEE Conference on Computer Communications</a></li>
+  <li><a href="https://atc-conf.org/">International Conference on Advanced Technologies For Communications, 2023</a></li>
+  <li><a href="https://infocom2015.ieee-infocom.org/index.html">IEEE Conference on Computer Communications, 2015</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
