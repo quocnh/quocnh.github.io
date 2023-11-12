@@ -4,7 +4,7 @@
 <h4 style="margin:0 10px 0;">Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>2023 INFORMS Annual Meeting, Phoenix, USA.</li>
+  <li>INFORMS Annual Meeting, Phoenix, USA, Oct 2023.</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Developing an Architecture for IoT Interoperability in Healthcare: A case study of Realtime SpO2 Signal Monitoring and Analysis.</h4>
