@@ -26,6 +26,6 @@
 <h4 style="margin:0 10px 0;">Others</h4>
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.youtube.com/watch?v=j5FrIn6Ygek">Field Assistant. First LEGO League. Assisting the refs and resetting the boards, hosted by robotics - the College of Engineering, NDSU</a></li>
-  <li><a href="https://www.dakotasleepsociety.com/">Web developer - Dakota Sleep Society Group, USA. Developed a website for raising fundings for a charity organization in North Dakota State</a></li>
+  <li><a href="https://www.dakotasleepsociety.com/">Web developer - Dakota Sleep Society Group, USA. Developed a website to raise funds for the non-profit Dakota Sleep Society Organization in North Dakota</a></li>
   <li>President of Badminton Club (2021-2022) and Vice President of Vietnamese Group at NDSU (2021-2022)</li>
 </ul>
