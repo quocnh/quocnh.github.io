@@ -22,7 +22,7 @@
 <h4 style="margin:0 10px 0;">Proposal of Novel Image Compression Algorithm using Kmean Clustering for VDI in Cloud Computing.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>1st Internal Conference on Next Generation Computing, Bangkok, Thailand, 2016 (Poster)</li>
+  <li>1st Internal Conference on Next Generation Computing, Bangkok, Thailand, 2016</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Low cost real-time system monitoring using Raspberry Pi.</h4>
