@@ -12,7 +12,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://atc-conf.org/">2023 International Conference On Advanced Technologies For Communications</a></li>
+  <li><a href="https://atc-conf.org/">2023 International Conference on Advanced Technologies For Communications</a></li>
   <li><a href="https://infocom2015.ieee-infocom.org/index.html">2015 IEEE Conference on Computer Communications</a></li>
 </ul>
 
