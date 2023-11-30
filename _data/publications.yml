@@ -4,7 +4,7 @@ main:
     authors: <strong>Quoc H. Nguyen*</strong>, Soumyadeep Hore* (equal contribution), Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
     conference: 
-    # pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
+    pdf: ./assets/publications/fednids/FL_Framework_for_packet_based_NIDS.pdf
     code: 
     bibtex: 
     image: ./assets/publications/fednids/fednids.png
