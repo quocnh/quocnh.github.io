@@ -3,6 +3,9 @@
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 
 <ul>
+   <li>
+    Teaching Assistant, <a href="">ENG 4450 Introduction to Linear Systems</a> at <a href="">University of South Florida</a>, 2023
+  </li>
   <li>
     Teaching Assistant, <a href="">ESI 4244 Design of Experiments</a> at <a href="https://catalog.usf.edu/preview_course_nopop.php?catoid=13&coid=45748">University of South Florida</a>, 2023
   </li>
