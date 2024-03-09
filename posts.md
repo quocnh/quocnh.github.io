@@ -1,7 +1,6 @@
 ---
 layout: homepage
 ---
-
 <h1 id="posts"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Posts</h2>
