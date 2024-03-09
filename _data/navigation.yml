@@ -5,8 +5,8 @@ main:
     right: true 
     
   - title: "Posts"
-    url: /#posts
-    # url: /posts.html
+    # url: /#posts
+    url: /posts.md
   #- title: "Services"
   #  url: ./#services
 
