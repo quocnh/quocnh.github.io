@@ -19,4 +19,5 @@ layout: homepage
 
 
 </ul>
+{% include_relative _includes/teaching.md %}
 
