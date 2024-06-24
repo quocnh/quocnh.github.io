@@ -3,7 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Oct. 2023]</strong> I will be presenting my work at <a href="https://meetings.informs.org/wordpress/2024security/venue/">2024 INFORMS Secuity Conference, Arlington, VA, USA (in coming)</a>. </li>
+<li><strong>[Aug. 2024]</strong> I will be presenting my work at <a href="https://meetings.informs.org/wordpress/2024security/venue/">2024 INFORMS Secuity Conference, Arlington, VA, USA (in coming)</a>. </li>
+<li><strong>[May. 2024]</strong> I presented my work "Smart IoT System for Cancer undergoing Treatment" at IISE Annual Conference, Montreal, Canada</a>. </li>
 <li><strong>[Oct. 2023]</strong> I served as a Session Chair and gave a talk on generative model at <a href="https://meetings.informs.org/wordpress/phoenix2023/">2023 INFORMS Annual Meeting, Phoenix, USA</a>. </li>
 <li><strong>[Sept. 2023]</strong> I has been named a Future Faculty Fellow by the Institute for Industrial and Systems Engineers (3F IISE).</li>
 <li><strong>[Oct. 2022]</strong> I served as a Session Chair at <a href="https://meetings.informs.org/wordpress/indianapolis2022/">2022 INFORMS Annual Meeting, Indianapolis, USA</a>. </li>
