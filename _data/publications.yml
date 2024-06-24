@@ -8,7 +8,7 @@ main:
     code: 
     bibtex: 
     image: ./assets/publications/fednids/fednids.png
-    notes: Under review (2023).
+    notes: 2nd Revision (2024).
 
   - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
     authors: <strong>Quoc H. Nguyen*</strong>, Thang Nguyen, Minh Nguyen, Trung Le
