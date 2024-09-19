@@ -4,11 +4,11 @@ main:
     authors: <strong>Quoc H. Nguyen*</strong>, Soumyadeep Hore* (equal contribution), Ankit Shah, Trung Le, and Nathaniel D. Bastian
     conference_short: Preprint
     conference: 
-    pdf: ./assets/publications/fednids/FederatedLearning_Framework_for_packet_based_NIDS.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3696012
     code: 
     bibtex: 
     image: ./assets/publications/fednids/fednids.png
-    notes: 2nd Revision (2024).
+    notes: Accepted (2024).
 
   - title: Class Label Conditioning Diffusion Model for Robust Brain Tumor MRI Synthesis
     authors: <strong>Quoc H. Nguyen*</strong>, Thang Nguyen, Minh Nguyen, Trung Le
