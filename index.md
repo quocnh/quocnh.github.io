@@ -13,6 +13,7 @@ University, South Korea](https://www.khu.ac.kr/eng/main/index.do), from 2014 to 
 <!--- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently looking for faculty positions in CS, IME, etc., related to Artificial Intelligence. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
 
 
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
