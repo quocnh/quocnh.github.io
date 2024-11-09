@@ -9,9 +9,9 @@ profile:
   image: Profile.JPG
   image_circular: false # crops the image to make it circular
   <!--more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>-->
+    <p><a href='https://github.com/quocnh/quocnh.github.io/blob/c46e3e0aada9c8c38a9db6453c30fa85e109cb25/assets/pdf/Quoc_Academia_CV.pdf'>CV</p>
+    <p><a href='https://www.linkedin.com/in/quocnh/'>LinkedIn</p>
+    <p><a href='https://github.com/quocnh'>Github</p>-->
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
