@@ -2,11 +2,22 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<ul>
+   <li>
+    Teaching Assistant, <a href="">ENG 4450 Introduction to Linear Systems</a> at <a href="">University of South Florida</a>, 2023
+  </li>
+  <li>
+    Teaching Assistant, <a href="">ESI 4244 Design of Experiments</a> at <a href="https://catalog.usf.edu/preview_course_nopop.php?catoid=13&coid=45748">University of South Florida</a>, 2023
+  </li>
+  <li>
+    Teaching Assistant, <a href="">IME 461 Quality Assurance and Control</a> at <a href="https://catalog.ndsu.edu/course-catalog/descriptions/ime/">North Dakota State University</a>, 2020, 2021
+  </li>
+ <li>
+    Teaching Assistant, <a href=""> IME 456 Program and Project Management</a> at <a href="https://catalog.ndsu.edu/course-catalog/descriptions/ime/">North Dakota State University</a>, 2019
+  </li>
+</ul>
