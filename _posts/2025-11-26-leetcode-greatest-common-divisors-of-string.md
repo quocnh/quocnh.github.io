@@ -32,7 +32,7 @@ toc:
     Brute Force Approach
 </div>
 - Time complexity: O(n)
-- Memory complexity: O(n)
+- Memory complexity: O(1)
 
 ```python
  def valid(i):
@@ -49,8 +49,8 @@ toc:
         return ""
 ```
 ## Euclidean Algorithm
-- Time complexity: O(1)
-- Memory complexity: (1)
+- Time complexity: O(Log(Min(Len(Str1),Len(Str2)))
+- Memory complexity: O(1)
 ```python
 
 class Solution(object):
