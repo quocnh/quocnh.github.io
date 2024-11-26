@@ -2,7 +2,7 @@
 layout: distill
 title: 1768. Merge Strings Alternately
 description: 
-tags: formatting leetcode
+tags: leetcode
 giscus_comments: true
 date: 2024-11-25
 featured: true
@@ -17,15 +17,11 @@ bibliography: references.bib
 
 toc:
   - name: 2 Pointers Solution
-  - name: Dataset and Preprocessing
-  - name: Exploratory Data Analysis
-  - name: Model Development
-  - name: Evaluation and Insights
-  - name: Future Work
-
+  - name: Time Efficient Solution
+  - name: Memory Efficient Solution
 ---
 
-## Introduction
+## 2 Pointers Solution
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 
@@ -60,3 +56,4 @@ class Solution(object):
                 j+=1
         return str
 ```
+## Time Efficient Solution
