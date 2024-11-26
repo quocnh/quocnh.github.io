@@ -16,12 +16,12 @@ authors:
 bibliography: references.bib
 
 toc:
-  - name: 2 Pointers Solution
+  - name: Two Pointers Solution
   - name: Time Efficient Solution
-  - name: Memory Efficient Solution
+  - name: Memory Efficient Solution (One Pointer)
 ---
 
-## 2 Pointers Solution
+## Two Pointers Solution
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 
