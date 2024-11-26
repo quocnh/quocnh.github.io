@@ -2,7 +2,7 @@
 layout: distill
 title: NLP Text Processing and Star Rating Analysis Application
 description: A practical guide to applying NLP techniques for analyzing text and predicting star ratings.
-tags: formatting data_science
+tags: data_science
 giscus_comments: true
 date: 2024-11-23
 featured: true
