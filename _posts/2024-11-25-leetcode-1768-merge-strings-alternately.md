@@ -29,7 +29,6 @@ toc:
 - Space complexity: O(n)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-# Two Pointers Solution
 ```python
 class Solution(object):
     def mergeAlternately(self, word1, word2):
