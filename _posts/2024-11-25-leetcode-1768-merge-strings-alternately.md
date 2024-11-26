@@ -9,7 +9,7 @@ featured: true
 
 authors:
   - name: Quoc Nguyen
-    url: "https://example.com"
+    url: "https://quocnh.github.io"
     affiliations:
       name: Data Science Enthusiast
 
