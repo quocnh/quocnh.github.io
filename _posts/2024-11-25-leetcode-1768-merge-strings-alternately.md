@@ -17,8 +17,8 @@ bibliography: references.bib
 
 toc:
   - name: Two Pointers Solution
-  - name: Time Efficient Solution
-  - name: Memory Efficient Solution (One Pointer)
+  - name: One Pointer Solution
+
 ---
 
 ## Two Pointers Solution
@@ -35,7 +35,7 @@ toc:
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-# 2 Pointers Solution
+# Two Pointers Solution
 ```python []
 class Solution(object):
     def mergeAlternately(self, word1, word2):
@@ -56,4 +56,22 @@ class Solution(object):
                 j+=1
         return str
 ```
-## Time Efficient Solution
+## One Pointer Solution
+```python
+class Solution(object):
+    def mergeAlternately(self, word1, word2):
+        """
+        :type word1: str
+        :type word2: str
+        :rtype: str
+        """
+        ## One pointer solution
+
+        str = ""
+        for i in range(max(len(word1), len(word2))):
+            if i < len(word1):
+                str += word1[i]
+            if i < len(word2):
+                str += word2[i]
+        return str
+```
