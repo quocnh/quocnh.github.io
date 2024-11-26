@@ -22,21 +22,15 @@ toc:
 ---
 
 ## Two Pointers Solution
-# Intuition
-<!-- Describe your first thoughts on how to solve this problem. -->
 
-# Approach
-<!-- Describe your approach to solving the problem. -->
-
-# Complexity
-- Time complexity:
+- Time complexity: O(n)
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
-- Space complexity:
+- Space complexity: O(n)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Two Pointers Solution
-```python []
+```python
 class Solution(object):
     def mergeAlternately(self, word1, word2):
         """
