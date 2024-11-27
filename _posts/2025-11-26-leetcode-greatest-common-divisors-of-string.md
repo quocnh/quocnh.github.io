@@ -4,7 +4,7 @@ title: 1071. Greatest Common Divisor of String
 description: 
 tags: leetcode
 giscus_comments: true
-date: 2024-11-25
+date: 2024-11-26
 featured: true
 
 authors:
