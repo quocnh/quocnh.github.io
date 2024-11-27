@@ -26,7 +26,8 @@ toc:
 
 - Time complexity: O(n)
 - Memory complexity: O(1)
-![My Local Image](https://github.com/quocnh/quocnh.github.io/blob/55b2f67a46eda40abd0a9ac3122cc63419eb9086/assets/img/1071-Greatest%20Common%20Divisor%20of%20String.png)
+  
+![](https://github.com/quocnh/quocnh.github.io/blob/55b2f67a46eda40abd0a9ac3122cc63419eb9086/assets/img/1071-Greatest%20Common%20Divisor%20of%20String.png)
 
 
 ```python
