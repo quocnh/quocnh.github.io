@@ -49,6 +49,11 @@ Input: s = "a good   example"
 Output: "example good a"
 Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
 ```
+build-in function to handle string, array
+1. split()
+2. reversed()
+3. "".join()
+4. strip(), remove learning and trailing spaces
 
 ## Solution
 ```python
