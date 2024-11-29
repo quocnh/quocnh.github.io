@@ -68,7 +68,7 @@ Output: [24, 12, 8, 6]
 
 
 ---
-
+```
 ### Step 1: Compute Left Products
 We calculate the **prefix product** (left products) for each index and store it in `output[]`.
 
@@ -108,7 +108,7 @@ output = [24, 12, 8, 6]
 This avoids redundant recalculations and runs in \(O(n)\) time complexity.
 
 
-```
+
 ```css
 # class Solution(object):
 #     def productExceptSelf(self, nums):
