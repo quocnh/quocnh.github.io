@@ -67,6 +67,47 @@ Output: [24, 12, 8, 6]
     For index 3: Multiply all except nums[3] → 1×2×3=61×2×3=6
 
 
+---
+
+### Step 1: Compute Left Products
+We calculate the **prefix product** (left products) for each index and store it in `output[]`.
+
+| Index `i` | `nums[i]` | Left Product (`prefix`) | `output` (stores left products) |
+|-----------|-----------|-------------------------|----------------------------------|
+| 0         | 1         | 1 (no left elements)     | 1                                |
+| 1         | 2         | 1 (product of [1])       | 1                                |
+| 2         | 3         | 2 (product of [1, 2])    | 2                                |
+| 3         | 4         | 6 (product of [1, 2, 3]) | 6                                |
+
+**Output after this step**:
+output = [1, 1, 2, 6]
+
+
+---
+
+### Step 2: Compute Right Products and Multiply with Left Products
+We now compute the **suffix product** (right products) and multiply it directly into the `output[]` array.
+
+| Index `i` | Right Product (`suffix`) | `output[i]` (multiplied with suffix) |
+|-----------|--------------------------|--------------------------------------|
+| 3         | 1                        | \(6 \times 1 = 6\)                   |
+| 2         | 4 (product of [4])        | \(2 \times 4 = 8\)                   |
+| 1         | 12 (product of [3, 4])    | \(1 \times 12 = 12\)                 |
+| 0         | 24 (product of [2, 3, 4]) | \(1 \times 24 = 24\)                 |
+
+**Output after this step**:
+output = [24, 12, 8, 6]
+
+
+---
+
+### Key Points:
+- During the **first pass** (left-to-right), we populate `output[]` with the cumulative product of all elements to the left of each index.
+- In the **second pass** (right-to-left), we multiply the existing `output[i]` (containing the left product) by the suffix product.
+
+This avoids redundant recalculations and runs in \(O(n)\) time complexity.
+
+
 ```
 ```css
 # class Solution(object):
