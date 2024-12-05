@@ -114,15 +114,6 @@ print(my_queue[0])  # Peek (view front), Output: 2
 # Peek: O(1)
 ```
 
-## Summary Table (Conceptual)
- | Operation             | List   | Set   | Stack | Queue |
- |-----------------------|--------|-------|-------|-------|
- | Add Element           | O(1)  | O(1)  | O(1)  | O(1)  |
- | Remove Element        | O(n)  | O(1)  | O(1)  | O(1)  |
- | Access Element        | O(1)  | O(1)  | O(1)  | O(1)  |
- | Membership Check      | O(n)  | O(1)  | O(n)  | O(n)  |
- | Order Maintained      | Yes    | No    | Yes   | Yes   |
- | Duplicates Allowed    | Yes    | No    | Yes   | Yes   |
 
 ## When to Use Each
  1. List: General-purpose storage, ordered, allows duplicates.
