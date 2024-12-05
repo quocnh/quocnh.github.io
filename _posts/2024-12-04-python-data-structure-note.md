@@ -15,15 +15,7 @@ authors:
 
 bibliography: references.bib
 
-toc:
-  - name: Overview
-  - name: Common Operations
-  - name: Exploratory Data Analysis
-  - name: Model Development
-  - name: Evaluation and Insights
-  - name: Future Work
 
----
 
 # Python Data Structures: List, Set, Stack, and Queue
 
@@ -44,12 +36,14 @@ toc:
 
 
 
-# 1. LIST
-# Definition
+## 1. LIST
+### Definition
+```python
 my_list = []  # Empty list
 my_list = [1, 2, 3, 4]  # List with elements
-
-# Common Operations
+```
+### Common Operations
+```python
 my_list.append(5)  # Add an element, [1, 2, 3, 4, 5]
 print(my_list[0])  # Access by index, Output: 1
 my_list.remove(2)  # Remove by value, [1, 3, 4, 5]
@@ -60,13 +54,15 @@ print(my_list[1:3])  # Slice, Output: [3, 4]
 # Access by Index: O(1)
 # Remove (by Value): O(n)
 # Slice: O(k)
-
-# 2. SET
-# Definition
+```
+## 2. SET
+### Definition
+```python
 my_set = set()  # Empty set
 my_set = {1, 2, 3}  # Set with elements
-
-# Common Operations
+```
+### Common Operations
+```python
 my_set.add(4)  # Add an element, {1, 2, 3, 4}
 my_set.remove(2)  # Remove an element, {1, 3, 4}
 print(3 in my_set)  # Membership check, Output: True
@@ -75,13 +71,15 @@ print(3 in my_set)  # Membership check, Output: True
 # Add: O(1)
 # Remove: O(1)
 # Membership Check: O(1)
-
-# 3. STACK
-# Definition
+```
+## 3. STACK
+### Definition
+```python
 my_stack = []  # Empty stack
 my_stack = [1, 2, 3]  # Stack with elements
-
-# Common Operations
+```
+### Common Operations
+```python
 my_stack.append(4)  # Push (add), [1, 2, 3, 4]
 top = my_stack.pop()  # Pop (remove top), Output: 4, stack becomes [1, 2, 3]
 print(my_stack[-1])  # Peek (view top), Output: 3
@@ -90,15 +88,18 @@ print(my_stack[-1])  # Peek (view top), Output: 3
 # Push: O(1)
 # Pop: O(1)
 # Peek: O(1)
+```
 
-# 4. QUEUE
+## 4. QUEUE
 from collections import deque
 
-# Definition
+### Definition
+```python
 my_queue = deque()  # Empty queue
 my_queue = deque([1, 2, 3])  # Queue with elements
-
-# Common Operations
+```
+### Common Operations
+```python
 my_queue.append(4)  # Enqueue (add to end), deque([1, 2, 3, 4])
 front = my_queue.popleft()  # Dequeue (remove from front), Output: 1, queue becomes deque([2, 3, 4])
 print(my_queue[0])  # Peek (view front), Output: 2
@@ -107,23 +108,24 @@ print(my_queue[0])  # Peek (view front), Output: 2
 # Enqueue: O(1)
 # Dequeue: O(1)
 # Peek: O(1)
+```
 
-# Summary Table (Conceptual)
-# | Operation             | List   | Set   | Stack | Queue |
-# |-----------------------|--------|-------|-------|-------|
-# | Add Element           | O(1)  | O(1)  | O(1)  | O(1)  |
-# | Remove Element        | O(n)  | O(1)  | O(1)  | O(1)  |
-# | Access Element        | O(1)  | O(1)  | O(1)  | O(1)  |
-# | Membership Check      | O(n)  | O(1)  | O(n)  | O(n)  |
-# | Order Maintained      | Yes    | No    | Yes   | Yes   |
-# | Duplicates Allowed    | Yes    | No    | Yes   | Yes   |
+## Summary Table (Conceptual)
+ | Operation             | List   | Set   | Stack | Queue |
+ |-----------------------|--------|-------|-------|-------|
+ | Add Element           | O(1)  | O(1)  | O(1)  | O(1)  |
+ | Remove Element        | O(n)  | O(1)  | O(1)  | O(1)  |
+ | Access Element        | O(1)  | O(1)  | O(1)  | O(1)  |
+ | Membership Check      | O(n)  | O(1)  | O(n)  | O(n)  |
+ | Order Maintained      | Yes    | No    | Yes   | Yes   |
+ | Duplicates Allowed    | Yes    | No    | Yes   | Yes   |
 
-# When to Use Each
-# 1. List: General-purpose storage, ordered, allows duplicates.
-#    Example: Storing items with duplicates, accessing by index.
-# 2. Set: Unique elements, fast membership checks.
-#    Example: Removing duplicates, set operations like union.
-# 3. Stack: LIFO operations (Last-In-First-Out).
-#    Example: Backtracking, parsing expressions.
-# 4. Queue: FIFO operations (First-In-First-Out).
-#    Example: Task scheduling, breadth-first search (BFS).
+## When to Use Each
+ 1. List: General-purpose storage, ordered, allows duplicates.
+    Example: Storing items with duplicates, accessing by index.
+ 2. Set: Unique elements, fast membership checks.
+    Example: Removing duplicates, set operations like union.
+ 3. Stack: LIFO operations (Last-In-First-Out).
+    Example: Backtracking, parsing expressions.
+ 4. Queue: FIFO operations (First-In-First-Out).
+    Example: Task scheduling, breadth-first search (BFS).
