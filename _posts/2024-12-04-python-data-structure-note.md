@@ -4,12 +4,12 @@ title: Python Data Structures: List, Set, Stack, and Queue
 description:
 tags: leetcode
 giscus_comments: true
-date: 2024-11-23
+date: 2024-12-04
 featured: true
 
 authors:
   - name: Quoc Nguyen
-    url: "https://example.com"
+    url: "https://quocnh.github.io"
     affiliations:
       name: Data Science Enthusiast
 
