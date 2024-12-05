@@ -15,13 +15,10 @@ authors:
 
 bibliography: references.bib
 toc:
-  - name: Python Data Structures: List, Set, Stack, and Queue
+  - name: Overview
   - name: Overview
 
 ---
-
-
-# Python Data Structures: List, Set, Stack, and Queue
 
 ## Overview
 
