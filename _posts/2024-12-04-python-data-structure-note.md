@@ -14,6 +14,10 @@ authors:
       name: Data Science Enthusiast
 
 bibliography: references.bib
+toc:
+  - name: Python Data Structures: List, Set, Stack, and Queue
+  - name: Overview
+
 ---
 
 
