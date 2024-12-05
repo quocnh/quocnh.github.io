@@ -29,10 +29,10 @@ bibliography: references.bib
 
 # Python Data Structures: List, Set, Stack, and Queue
 
-# List: Ordered, allows duplicates.
-# Set: Unordered, unique elements only.
-# Stack: Last-In-First-Out (LIFO).
-# Queue: First-In-First-Out (FIFO).
+- List: Ordered, allows duplicates.
+- Set: Unordered, unique elements only.
+- Stack: Last-In-First-Out (LIFO).
+- Queue: First-In-First-Out (FIFO).
 
 
 
