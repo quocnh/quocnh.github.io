@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Python Data Structures: List, Set, Stack, and Queue
+title: Python Data Structures
 description:
 tags: leetcode
 giscus_comments: true
