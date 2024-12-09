@@ -35,9 +35,6 @@ Global-Sales-Dashboard/
   Dashboard Visualization
 </div>
 
-
-{% endraw %}
-
 ## Features
 - Interactive filters for region, product category, and date range
 - Visuals include sales trends, top products, and regional performance
