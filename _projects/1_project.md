@@ -22,19 +22,6 @@ Global-Sales-Dashboard/
     ├── dashboard_overview.png
     └── sales_by_region.png
 ```
-## Features
-- Interactive filters for region, product category, and date range
-- Visuals include sales trends, top products, and regional performance
-- KPIs for quick insights
-
-## Getting Started
-- Download the global_sales_dashboard.twbx file from the repository.
-- Open it in Tableau.
-- Explore the interactive dashboard and gain insights.
-
-## Data Source
-
-Superstore Dataset
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
