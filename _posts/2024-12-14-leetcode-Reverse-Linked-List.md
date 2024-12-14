@@ -51,6 +51,8 @@ Follow up: A linked list can be reversed either iteratively or recursively. Coul
 ```
 
 ## Two Pointers
+- Time complexity: O(n)
+- Space complexity: O(1)
 ```python
 # Definition for singly-linked list.
 # class ListNode(object):
