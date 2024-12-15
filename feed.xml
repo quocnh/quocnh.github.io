@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://quocnh.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://quocnh.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-12-14T20:48:20+00:00</updated><id>https://quocnh.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">206. Reverse Linked List</title><link href="https://quocnh.github.io/blog/2024/leetcode-Reverse-Linked-List/" rel="alternate" type="text/html" title="206. Reverse Linked List"/><published>2024-12-14T00:00:00+00:00</published><updated>2024-12-14T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-Reverse-Linked-List</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-Reverse-Linked-List/"><![CDATA[<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Given</span> <span class="n">the</span> <span class="n">head</span> <span class="n">of</span> <span class="n">a</span> <span class="n">singly</span> <span class="n">linked</span> <span class="nb">list</span><span class="p">,</span> <span class="n">reverse</span> <span class="n">the</span> <span class="nb">list</span><span class="p">,</span> <span class="ow">and</span> <span class="k">return</span> <span class="n">the</span> <span class="nb">reversed</span> <span class="nb">list</span><span class="p">.</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://quocnh.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://quocnh.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-12-15T04:38:24+00:00</updated><id>https://quocnh.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">2130. Maximum Twin Sum of a Linked List</title><link href="https://quocnh.github.io/blog/2024/leetcode-Maximum-Twin-Sum-of-a-Linked-List/" rel="alternate" type="text/html" title="2130. Maximum Twin Sum of a Linked List"/><published>2024-12-14T00:00:00+00:00</published><updated>2024-12-14T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-Maximum-Twin-Sum-of-a-Linked-List</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-Maximum-Twin-Sum-of-a-Linked-List/"><![CDATA[<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">n</span> <span class="n">a</span> <span class="n">linked</span> <span class="nb">list</span> <span class="n">of</span> <span class="n">size</span> <span class="n">n</span><span class="p">,</span> <span class="n">where</span> <span class="n">n</span> <span class="ow">is</span> <span class="n">even</span><span class="p">,</span> <span class="n">the</span> <span class="n">ith</span> <span class="nf">node </span><span class="p">(</span><span class="mi">0</span><span class="o">-</span><span class="n">indexed</span><span class="p">)</span> <span class="n">of</span> <span class="n">the</span> <span class="n">linked</span> <span class="nb">list</span> <span class="ow">is</span> <span class="n">known</span> <span class="k">as</span> <span class="n">the</span> <span class="n">twin</span> <span class="n">of</span> <span class="nf">the </span><span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="o">-</span><span class="n">i</span><span class="p">)</span><span class="n">th</span> <span class="n">node</span><span class="p">,</span> <span class="k">if</span> <span class="mi">0</span> <span class="o">&lt;=</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="p">(</span><span class="n">n</span> <span class="o">/</span> <span class="mi">2</span><span class="p">)</span> <span class="o">-</span> <span class="mf">1.</span>
+
+    <span class="n">For</span> <span class="n">example</span><span class="p">,</span> <span class="k">if</span> <span class="n">n</span> <span class="o">=</span> <span class="mi">4</span><span class="p">,</span> <span class="n">then</span> <span class="n">node</span> <span class="mi">0</span> <span class="ow">is</span> <span class="n">the</span> <span class="n">twin</span> <span class="n">of</span> <span class="n">node</span> <span class="mi">3</span><span class="p">,</span> <span class="ow">and</span> <span class="n">node</span> <span class="mi">1</span> <span class="ow">is</span> <span class="n">the</span> <span class="n">twin</span> <span class="n">of</span> <span class="n">node</span> <span class="mf">2.</span> <span class="n">These</span> <span class="n">are</span> <span class="n">the</span> <span class="n">only</span> <span class="n">nodes</span> <span class="k">with</span> <span class="n">twins</span> <span class="k">for</span> <span class="n">n</span> <span class="o">=</span> <span class="mf">4.</span>
+
+<span class="n">The</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="ow">is</span> <span class="n">defined</span> <span class="k">as</span> <span class="n">the</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">a</span> <span class="n">node</span> <span class="ow">and</span> <span class="n">its</span> <span class="n">twin</span><span class="p">.</span>
+
+<span class="n">Given</span> <span class="n">the</span> <span class="n">head</span> <span class="n">of</span> <span class="n">a</span> <span class="n">linked</span> <span class="nb">list</span> <span class="k">with</span> <span class="n">even</span> <span class="n">length</span><span class="p">,</span> <span class="k">return</span> <span class="n">the</span> <span class="n">maximum</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">the</span> <span class="n">linked</span> <span class="nb">list</span><span class="p">.</span>
+
+ 
+
+<span class="n">Example</span> <span class="mi">1</span><span class="p">:</span>
+
+<span class="n">Input</span><span class="p">:</span> <span class="n">head</span> <span class="o">=</span> <span class="p">[</span><span class="mi">5</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span>
+<span class="n">Output</span><span class="p">:</span> <span class="mi">6</span>
+<span class="n">Explanation</span><span class="p">:</span>
+<span class="n">Nodes</span> <span class="mi">0</span> <span class="ow">and</span> <span class="mi">1</span> <span class="n">are</span> <span class="n">the</span> <span class="n">twins</span> <span class="n">of</span> <span class="n">nodes</span> <span class="mi">3</span> <span class="ow">and</span> <span class="mi">2</span><span class="p">,</span> <span class="n">respectively</span><span class="p">.</span> <span class="n">All</span> <span class="n">have</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="o">=</span> <span class="mf">6.</span>
+<span class="n">There</span> <span class="n">are</span> <span class="n">no</span> <span class="n">other</span> <span class="n">nodes</span> <span class="k">with</span> <span class="n">twins</span> <span class="ow">in</span> <span class="n">the</span> <span class="n">linked</span> <span class="nb">list</span><span class="p">.</span>
+<span class="n">Thus</span><span class="p">,</span> <span class="n">the</span> <span class="n">maximum</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">the</span> <span class="n">linked</span> <span class="nb">list</span> <span class="ow">is</span> <span class="mf">6.</span> 
+
+<span class="n">Example</span> <span class="mi">2</span><span class="p">:</span>
+
+<span class="n">Input</span><span class="p">:</span> <span class="n">head</span> <span class="o">=</span> <span class="p">[</span><span class="mi">4</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">]</span>
+<span class="n">Output</span><span class="p">:</span> <span class="mi">7</span>
+<span class="n">Explanation</span><span class="p">:</span>
+<span class="n">The</span> <span class="n">nodes</span> <span class="k">with</span> <span class="n">twins</span> <span class="n">present</span> <span class="ow">in</span> <span class="n">this</span> <span class="n">linked</span> <span class="nb">list</span> <span class="n">are</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">Node</span> <span class="mi">0</span> <span class="ow">is</span> <span class="n">the</span> <span class="n">twin</span> <span class="n">of</span> <span class="n">node</span> <span class="mi">3</span> <span class="n">having</span> <span class="n">a</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="n">of</span> <span class="mi">4</span> <span class="o">+</span> <span class="mi">3</span> <span class="o">=</span> <span class="mf">7.</span>
+<span class="o">-</span> <span class="n">Node</span> <span class="mi">1</span> <span class="ow">is</span> <span class="n">the</span> <span class="n">twin</span> <span class="n">of</span> <span class="n">node</span> <span class="mi">2</span> <span class="n">having</span> <span class="n">a</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="n">of</span> <span class="mi">2</span> <span class="o">+</span> <span class="mi">2</span> <span class="o">=</span> <span class="mf">4.</span>
+<span class="n">Thus</span><span class="p">,</span> <span class="n">the</span> <span class="n">maximum</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="n">of</span> <span class="n">the</span> <span class="n">linked</span> <span class="nb">list</span> <span class="ow">is</span> <span class="nf">max</span><span class="p">(</span><span class="mi">7</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span> <span class="o">=</span> <span class="mf">7.</span> 
+
+<span class="n">Example</span> <span class="mi">3</span><span class="p">:</span>
+
+<span class="n">Input</span><span class="p">:</span> <span class="n">head</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">100000</span><span class="p">]</span>
+<span class="n">Output</span><span class="p">:</span> <span class="mi">100001</span>
+<span class="n">Explanation</span><span class="p">:</span>
+<span class="n">There</span> <span class="ow">is</span> <span class="n">only</span> <span class="n">one</span> <span class="n">node</span> <span class="k">with</span> <span class="n">a</span> <span class="n">twin</span> <span class="ow">in</span> <span class="n">the</span> <span class="n">linked</span> <span class="nb">list</span> <span class="n">having</span> <span class="n">twin</span> <span class="nb">sum</span> <span class="n">of</span> <span class="mi">1</span> <span class="o">+</span> <span class="mi">100000</span> <span class="o">=</span> <span class="mf">100001.</span>
+
+ 
+
+<span class="n">Constraints</span><span class="p">:</span>
+
+    <span class="n">The</span> <span class="n">number</span> <span class="n">of</span> <span class="n">nodes</span> <span class="ow">in</span> <span class="n">the</span> <span class="nb">list</span> <span class="ow">is</span> <span class="n">an</span> <span class="n">even</span> <span class="n">integer</span> <span class="ow">in</span> <span class="n">the</span> <span class="nb">range</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span> <span class="mi">105</span><span class="p">].</span>
+    <span class="mi">1</span> <span class="o">&lt;=</span> <span class="n">Node</span><span class="p">.</span><span class="n">val</span> <span class="o">&lt;=</span> <span class="mi">105</span>
+
+</code></pre></div></div> <h2 id="two-pointers">Two Pointers</h2> <p>Approach: Steps:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Find the Middle of the Linked List:
+    Use the fast and slow pointer technique to locate the midpoint of the list efficiently.
+
+Reverse the Second Half of the List:
+    Reverse the second half of the linked list to facilitate pairing the twin nodes.
+
+Calculate Twin Sums:
+    Traverse both halves simultaneously (one from the start and the other from the reversed list) to compute twin sums.
+
+Find the Maximum Twin Sum:
+    Keep track of the maximum twin sum encountered during the traversal.
+</code></pre></div></div> <ul> <li>Time complexity: O(n)</li> <li>Space complexity: O(1) ```python <h1 id="definition-for-singly-linked-list">Definition for singly-linked list.</h1> <h1 id="class-listnodeobject">class ListNode(object):</h1> <h1 id="def-initself-val0-nextnone">def <strong>init</strong>(self, val=0, next=None):</h1> <h1 id="selfval--val">self.val = val</h1> <h1 id="selfnext--next">self.next = next</h1> <p>class Solution(object): def pairSum(self, head): “”” :type head: Optional[ListNode] :rtype: int “”” # find the middle of head slow, fast = head, head while fast and fast.next: slow = slow.next fast = fast.next.next</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  # reverse the second half
+  prev = None
+    
+  while slow:
+      temp = slow.next
+      slow.next = prev
+      prev = slow
+      slow = temp
+    
+  # interate 2 linked list and compute sum
+  max_sum = 0
+  first, second = head, prev
+  while second:
+      max_sum = max(max_sum, first.val + second.val)
+      first = first.next
+      second = second.next
+  return max_sum
+</code></pre></div> </div> </li> </ul> <p>```</p>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[```python n a linked list of size n, where n is even, the ith node (0-indexed) of the linked list is known as the twin of the (n-1-i)th node, if 0 &lt;= i &lt;= (n / 2) - 1.]]></summary></entry><entry><title type="html">206. Reverse Linked List</title><link href="https://quocnh.github.io/blog/2024/leetcode-Reverse-Linked-List/" rel="alternate" type="text/html" title="206. Reverse Linked List"/><published>2024-12-14T00:00:00+00:00</published><updated>2024-12-14T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-Reverse-Linked-List</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-Reverse-Linked-List/"><![CDATA[<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Given</span> <span class="n">the</span> <span class="n">head</span> <span class="n">of</span> <span class="n">a</span> <span class="n">singly</span> <span class="n">linked</span> <span class="nb">list</span><span class="p">,</span> <span class="n">reverse</span> <span class="n">the</span> <span class="nb">list</span><span class="p">,</span> <span class="ow">and</span> <span class="k">return</span> <span class="n">the</span> <span class="nb">reversed</span> <span class="nb">list</span><span class="p">.</span>
 
 <span class="n">Example</span> <span class="mi">1</span><span class="p">:</span>
 
@@ -437,47 +508,4 @@
                         <span class="k">return</span> <span class="bp">True</span>
         <span class="k">return</span> <span class="n">count</span> <span class="o">&gt;=</span> <span class="n">n</span>
 
-</code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.]]></summary></entry><entry><title type="html">1071. Greatest Common Divisor of String</title><link href="https://quocnh.github.io/blog/2024/leetcode-greatest-common-divisors-of-string/" rel="alternate" type="text/html" title="1071. Greatest Common Divisor of String"/><published>2024-11-26T00:00:00+00:00</published><updated>2024-11-26T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-greatest-common-divisors-of-string</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-greatest-common-divisors-of-string/"><![CDATA[<p>For two strings s and t, we say “t divides s” if and only if s = t + t + t + … + t + t (i.e., t is concatenated with itself one or more times).</p> <p>Given two strings str1 and str2, return the largest string x such that x divides both str1 and str2.</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Example</span> <span class="mi">1</span><span class="p">:</span>
-
-<span class="n">Input</span><span class="p">:</span> <span class="n">str1</span> <span class="o">=</span> <span class="sh">"</span><span class="s">ABCABC</span><span class="sh">"</span><span class="p">,</span> <span class="n">str2</span> <span class="o">=</span> <span class="sh">"</span><span class="s">ABC</span><span class="sh">"</span>
-<span class="n">Output</span><span class="p">:</span> <span class="sh">"</span><span class="s">ABC</span><span class="sh">"</span>
-
-<span class="n">Example</span> <span class="mi">2</span><span class="p">:</span>
-
-<span class="n">Input</span><span class="p">:</span> <span class="n">str1</span> <span class="o">=</span> <span class="sh">"</span><span class="s">ABABAB</span><span class="sh">"</span><span class="p">,</span> <span class="n">str2</span> <span class="o">=</span> <span class="sh">"</span><span class="s">ABAB</span><span class="sh">"</span>
-<span class="n">Output</span><span class="p">:</span> <span class="sh">"</span><span class="s">AB</span><span class="sh">"</span>
-
-<span class="n">Example</span> <span class="mi">3</span><span class="p">:</span>
-
-<span class="n">Input</span><span class="p">:</span> <span class="n">str1</span> <span class="o">=</span> <span class="sh">"</span><span class="s">LEET</span><span class="sh">"</span><span class="p">,</span> <span class="n">str2</span> <span class="o">=</span> <span class="sh">"</span><span class="s">CODE</span><span class="sh">"</span>
-<span class="n">Output</span><span class="p">:</span> <span class="sh">""</span>
-</code></pre></div></div> <h2 id="brute-force">Brute Force</h2> <ul> <li>Time complexity: O(n)</li> <li>Memory complexity: O(1)</li> </ul> <p><img src="https://github.com/quocnh/quocnh.github.io/blob/55b2f67a46eda40abd0a9ac3122cc63419eb9086/assets/img/1071-Greatest%20Common%20Divisor%20of%20String.png" alt=""/></p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="k">def</span> <span class="nf">valid</span><span class="p">(</span><span class="n">i</span><span class="p">):</span>
-            <span class="k">if</span> <span class="nf">len</span><span class="p">(</span><span class="n">str1</span><span class="p">)</span><span class="o">%</span><span class="n">i</span> <span class="o">!=</span> <span class="mi">0</span> <span class="ow">or</span> <span class="nf">len</span><span class="p">(</span><span class="n">str2</span><span class="p">)</span><span class="o">%</span><span class="n">i</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
-                <span class="k">return</span> <span class="bp">False</span>
-            <span class="n">ratio1</span> <span class="o">=</span> <span class="nf">len</span><span class="p">(</span><span class="n">str1</span><span class="p">)</span><span class="o">//</span><span class="n">i</span>
-            <span class="n">ratio2</span> <span class="o">=</span> <span class="nf">len</span><span class="p">(</span><span class="n">str2</span><span class="p">)</span><span class="o">//</span><span class="n">i</span>
-            <span class="n">base</span> <span class="o">=</span> <span class="n">str1</span><span class="p">[:</span><span class="n">i</span><span class="p">]</span>
-            <span class="k">return</span> <span class="n">base</span><span class="o">*</span><span class="n">ratio1</span> <span class="o">==</span> <span class="n">str1</span> <span class="ow">and</span> <span class="n">base</span><span class="o">*</span><span class="n">ratio2</span> <span class="o">==</span> <span class="n">str2</span>
-
-        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nf">range </span><span class="p">(</span><span class="nf">min</span><span class="p">(</span><span class="nf">len</span><span class="p">(</span><span class="n">str1</span><span class="p">),</span> <span class="nf">len</span><span class="p">(</span><span class="n">str2</span><span class="p">)),</span> <span class="mi">0</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">):</span>
-            <span class="k">if</span> <span class="nf">valid</span><span class="p">(</span><span class="n">i</span><span class="p">):</span>
-                <span class="k">return</span> <span class="n">str1</span><span class="p">[:</span><span class="n">i</span><span class="p">]</span>
-        <span class="k">return</span> <span class="sh">""</span>
-</code></pre></div></div> <h2 id="euclidean-algorithm">Euclidean Algorithm</h2> <ul> <li>Time complexity: O(Log(Min(Len(Str1),Len(Str2)))</li> <li>Memory complexity: O(1) ```python</li> </ul> <p>class Solution(object): def gcdOfStrings(self, str1, str2): “”” :type str1: str :type str2: str :rtype: str “””</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    ## Euclidean Algorithm:
-
-    # This algorithm works by repeatedly replacing the larger number with the remainder of the division of the two numbers. Mathematically:
-    # gcd(a,b)=gcd(b,a%b)
-    # The process continues until the remainder (bb) becomes zero.
-
-    def gcd(a,b):
-        while b:
-            a, b = b, a%b
-        return a
-
-    # check if str1 and str2 have common gcd
-    if str1 + str2 != str2 + str1:
-        return ""
-    tmp = gcd(len(str1), len(str2))
-    str = str1[:tmp]
-    return str ```
-</code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[For two strings s and t, we say “t divides s” if and only if s=t + t + t + … + t + t (i.e., t is concatenated with itself one or more times).]]></summary></entry></feed>
+</code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.]]></summary></entry></feed>
