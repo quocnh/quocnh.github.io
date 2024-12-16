@@ -380,6 +380,8 @@ action, and parameter according to its correct purpose when programming on ROS.
 
 ## 4. Creating a Deep Learning Model
 ### 4.1 Preparing data
+Code: https://github.com/quocnh/ExtractObjectFromVideo_DeepLearning
+
 To efficiently prepare the dataset, a custom C++ program was developed to extract frames from video recordings. This approach significantly reduced the time and effort required for object data collection, as it automated the process of capturing high-quality images of the inspected objects. Using computer vision techniques, the program ensured accurate frame extraction while maintaining image quality for subsequent processing.
 
 The captured frames were then pre-processed and labeled to serve as input for a deep learning model. This streamlined workflow demonstrates expertise in C++ programming for high-performance tasks, the application of computer vision for automation, and the integration of deep learning to solve real-world challenges in defect detection.
