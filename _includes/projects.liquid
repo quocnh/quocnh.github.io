@@ -1,34 +1,90 @@
+<style>
+  .project-card {
+    height: 100%;
+    transition: transform 0.2s;
+  }
+
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .project-card .card-img-top {
+    height: 200px; /* Fixed height for thumbnails */
+    object-fit: cover;
+    width: 100%;
+  }
+
+  .project-card .card-body {
+    height: 200px; /* Fixed height for content */
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project-card .card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .project-card .card-text {
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+
+  .project-card .github-section {
+    margin-top: auto;
+  }
+
+  .project-card .github-icon {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .project-card .gh-icon {
+    color: #333;
+    font-size: 1.25rem;
+  }
+
+  .project-card .stars {
+    font-size: 0.9rem;
+    color: #666;
+  }
+</style>
+
 <div class="col">
-  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
+  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}" class="text-decoration-none">
+    <div class="card project-card">
       {% if project.img %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=project.img
-          sizes = "250px"
-          alt="project thumbnail"
+        <img 
+          src="{{ project.img }}"
+          alt="{{ project.title }}"
           class="card-img-top"
-        %}
+          loading="eager"
+        />
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if project.github %}
+        <h2 class="card-title text-dark">{{ project.title }}</h2>
+        <p class="card-text text-muted">{{ project.description }}</p>
+        {% if project.github %}
+          <div class="github-section">
             <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
+              <a href="{{ project.github }}" class="text-dark">
+                <i class="fa-brands fa-github gh-icon"></i>
+              </a>
               {% if project.github_stars %}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <span class="stars">
                   <i class="fa-solid fa-star"></i>
                   <span id="{{ project.github_stars }}-stars"></span>
                 </span>
               {% endif %}
             </div>
-          {% endif %}
-        </div>
+          </div>
+        {% endif %}
       </div>
     </div>
   </a>
