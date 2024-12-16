@@ -3,6 +3,7 @@ layout: page
 title: Automated Defect Inspection System with Robotic Arm and Deep Learning
 description: Developed an automated defect inspection system using a robotic arm, computer vision, and deep learning to efficiently detect and classify product defects on a conveyor belt.
 img: assets/img/project2.png
+redirect: https://github.com/quocnh/Automated-Defect-Inspection-System-Using-Robotic-Arm-and-DeepLearning/blob/master/Publication.md
 importance: 1
 category: work
 related_publications: true
