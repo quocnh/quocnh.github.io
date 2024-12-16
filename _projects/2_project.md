@@ -7,9 +7,13 @@ importance: 3
 category: work
 ---
 
-# Robot Arm in product inspection with ROS and Deep Learning.
-This is a brief note about the way we built a simple Robot Arm and
-Deep Leanring approach in order to make a model to predict defects in product inspection. 
+# Automated Defect Inspection System Using Robotic Arm and Deep Learning
+
+1. Designed and implemented a robotic arm system for real-time product defect inspection on conveyor belts, integrating ROS for motion control and automation.
+2. Developed an efficient C++ program to automate object data collection, leveraging computer vision techniques to extract high-quality image frames from video streams.
+3. Built and optimized a deep learning model using ResNet-50, achieving high accuracy in defect detection by training on customized datasets with precise annotations.
+4. Streamlined the pipeline for real-time defect identification and decision-making, demonstrating expertise in combining machine learning and hardware optimization.
+
 # Video link:
 1. https://drive.google.com/file/d/1KCF31cqWTbForki-6d7YNfTgb_rOv_WZ/view?usp=sharing
 2. https://drive.google.com/file/d/1sIMJ3BOCjd-B2ghHndZeDxoD2xsCqL9v/view?usp=sharing
