@@ -9,14 +9,20 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .project-card .card-img-top {
-    height: 200px; /* Fixed height for thumbnails */
-    object-fit: cover;
+  .project-card figure {
+    margin: 0;
+    height: 200px;
+    overflow: hidden;
+  }
+
+  .project-card figure img {
+    height: 200px;
     width: 100%;
+    object-fit: cover;
   }
 
   .project-card .card-body {
-    height: 200px; /* Fixed height for content */
+    height: 200px;
     display: flex;
     flex-direction: column;
   }
@@ -60,12 +66,14 @@
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}" class="text-decoration-none">
     <div class="card project-card">
       {% if project.img %}
-        <img 
-          src="{{ project.img }}"
-          alt="{{ project.title }}"
-          class="card-img-top"
+        {%
+          include figure.liquid
           loading="eager"
-        />
+          path=project.img
+          sizes="250px"
+          alt="project thumbnail"
+          class="card-img-top"
+        %}
       {% endif %}
       <div class="card-body">
         <h2 class="card-title text-dark">{{ project.title }}</h2>
