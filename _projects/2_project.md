@@ -5,7 +5,7 @@ title: project 3 with very long name
 description: a project that redirects to another website
 img: assets/img/project2.png
 redirect: https://github.com/quocnh/Automated-Defect-Inspection-System-Using-Robotic-Arm-and-DeepLearning/blob/master/Publication.md
-importance: 2
+importance: 3
 category: work
 ---
 
