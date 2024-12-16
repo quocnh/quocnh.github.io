@@ -140,7 +140,7 @@ There are some crucial rules:
 
 * There are 6 DoFs but we only need 5 DoFs, follow 4 rules above we got the kinematic diagram:  
 
-<img src="assert/kinematic_diagram1.jpeg" width="700" title="DH diagram">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/kinematic_diagram1.jpeg" width="700" title="DH diagram">
 
 #### Forward Kinematics
 Forward kinematics specifies the joint parameters and computes the configuration of the chain, following these steps below:
@@ -151,10 +151,10 @@ First, finding the rotation matrix and the displacement vector for each pair of 
 those two components together into the homogeneous transformation matrix. 
 
 * Calculating Rotation Matrices
-<img src="assert/rotation_fomular.png" width="300" title="DH diagram">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/rotation_fomular.png" width="300" title="DH diagram">
 
 * Calculating Displacement Vectors
-<img src="assert/displacement_vector.png" width="300" title="DH diagram">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/displacement_vector.png" width="300" title="DH diagram">
 
 The displacement vetor only has one column and it has 3 rows. The first row tells us the x position of the n frame in the m frame. The 2nd row tells us the 
 Y position and the 3rd row tells us the Z posiiton.
@@ -173,7 +173,7 @@ This method is faster than the other way but it kind of obscures the meaning beh
 and the displacement vector. So it is important to fist do the basic method above and make sure we understand the meaning of each 
 part of the homogeneous transformation before we srat taking the shorcut method to the end.
 
-![viewer](assert/Classic-DHparameters.png)
+![viewer](https://github.com/quocnh/RobotArm/blob/master/assert/Classic-DHparameters.png.png)
 
 The following 4 transformation parameters are known as D–H parameters:
 
@@ -186,7 +186,7 @@ The following 4 transformation parameters are known as D–H parameters:
 - Step 2: Fill out the Denavit-Hartenberg parameter table. 
 - Step 3: Get the Homogeneous transformation matrix
 
-<img src="assert/DH_fomular.png" width="500" title="DH Fomular">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/DH_fomular.png" width="500" title="DH Fomular">
 #### Invert Kinematics
 Inverse kinematics specifies the end-effector location and computes the associated joint angles. 
 The inverse kinematics problem of the serial manipulators has been studied
@@ -350,7 +350,7 @@ corresponding degree of freedom, so they can be used for simulation or control.
 
 The robot model can be displayed and interacted as shown in Figure bellow.
 
-<img src="assert/moveit.png" width="500" title="Moveit">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/moveit.png" width="500" title="Moveit">
 
 
 #### Motion plaining with MoveIt
@@ -360,7 +360,7 @@ planning in the whole map and the local path planning for smaller areas around t
 plan to use the OMPL algorithm to optimize the trajactory of the Arm. OMPL can be install by Moveit Assistant Wizard, more information can found in the index page at http://ompl.kavrakilab.org/
 
 ### 3.3 Communication between of the Arm and Raspberry Pi by ROS
-<img src="assert/rosgraph.png" width="500" title="ros_graph">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/rosgraph.png" width="500" title="ros_graph">
 
 ROS is developed in unit of nodes, which is the minimum unit of executetable program that has broken down for the maximum reusability.
 The node exchanges data with other nodes through messages forming a large program as a whole. The key concept here is the message communication methods among nodes.
@@ -370,9 +370,9 @@ In addition, the parameters used in the node can be modified from the outside of
 message communication in the larger context. Message communication is illustrated and the differences are summarized in the Figure and Table bellow . It is important to use each topic, service,
 action, and parameter according to its correct purpose when programming on ROS.
 
-<img src="assert/ros_communication.png" width="500" title="ros_graph">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/ros_communication.png" width="500" title="ros_graph">
 
-<img src="assert/communication_table.png" width="500" title="ros_graph">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/communication_table.png" width="500" title="ros_graph">
 
 ## 4. Creating a Deep Learning Model
 ### 4.1 Preparing data
@@ -411,11 +411,11 @@ We defined train & test datasets followed by four metrics above (500 OK and 500 
 # 5. Capturing Objects by Pi Camera
 ### 5.1 Connecting Pi Camera to the Arm
 First, connecting the Camera Module to the Raspberry Pi’s camera port, then start up the Pi and ensure the software is enabled.
-<img src="assert/connect-camera.jpg" width="500" title="ros_graph">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/connect-camera.jpg" width="500" title="ros_graph">
 
 Then, we attached the pi camera on top of the Arm. The result like the photo below. 
 
-<img src="assert/pi.JPG" width="500" title="ros_graph">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/pi.JPG" width="500" title="ros_graph">
 
 ### 5.2 Making Pi Camera Server
 To install camera node in ROS is a tough step. It took alots of time to accomplish. Folow this tutorial to finish this step.
@@ -523,8 +523,6 @@ A simple topic check shows us that the node is active:
 ## 6. Experimental Reslut
 ### 6.1 Kinametic Implementation
 https://colab.research.google.com/drive/16oZtyKOfklekXpCMOa6KYnGSpCuyhuNP
-### 6.2 The Robot Arm performance
-(TODO)
 ### 6.3 Prediction Result
 Please check the video on top of the paper.
 ## 7. Conclusion
