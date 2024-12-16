@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Automated Defect Inspection System with Robotic Arm and Deep Learning
+description: Developed an automated defect inspection system using a robotic arm, computer vision, and deep learning to efficiently detect and classify product defects on a conveyor belt.
+img: https://github.com/quocnh/RobotArm/blob/master/assert/overall_system.png
 importance: 3
 category: work
 ---
