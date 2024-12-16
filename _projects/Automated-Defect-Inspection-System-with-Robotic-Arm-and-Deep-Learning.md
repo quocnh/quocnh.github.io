@@ -67,7 +67,7 @@ The proposed system integrates a robotic arm controlled via the Robot Operating 
 ## 2. System Overview
 
 <p align="center">
-<img src="assert/overall_system.png" alt="" width="65%">
+<img src="https://github.com/quocnh/RobotArm/blob/master/assert/overall_system.png" alt="" width="65%">
 <br>
 <sup><b>Fig1.0 &nbsp;&nbsp;&nbsp;Overall System</b></sup>
 <br>
