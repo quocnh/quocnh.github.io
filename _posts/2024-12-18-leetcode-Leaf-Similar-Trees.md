@@ -25,10 +25,15 @@ The problem "872. Leaf-Similar Trees" is a LeetCode problem that asks you to det
 Here is the problem breakdown and a solution:
 
 Problem Statement
+
 Consider all the leaves of a binary tree. A leaf is a node with no children. A binary tree is considered leaf-similar if its leaf values, when visited from left to right, are identical to another binary tree's leaf values.
 
 Given the roots of two binary trees root1 and root2, return true if and only if the two trees are leaf-similar.
 
+root1 = [3,5,1,6,2,9,8,null,null,7,4]
+root2 = [3,5,1,6,7,4,2,null,null,null,null,null,null,9,8]
+
+return True
 ```
 
 ## DFS
