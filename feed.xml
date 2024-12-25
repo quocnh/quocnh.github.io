@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://quocnh.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://quocnh.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-12-25T21:35:13+00:00</updated><id>https://quocnh.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">560. Subarray Sum Equals K</title><link href="https://quocnh.github.io/blog/2024/leetcode-Subarray-Sum-Equals-K/" rel="alternate" type="text/html" title="560. Subarray Sum Equals K"/><published>2024-12-25T00:00:00+00:00</published><updated>2024-12-25T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-Subarray-Sum-Equals-K</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-Subarray-Sum-Equals-K/"><![CDATA[<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">The</span> <span class="n">problem</span> <span class="sh">"</span><span class="s">560. Subarray Sum Equals K</span><span class="sh">"</span> <span class="ow">is</span> <span class="n">about</span> <span class="n">finding</span> <span class="nb">all</span> <span class="n">the</span> <span class="n">contiguous</span> <span class="n">subarrays</span> <span class="n">of</span> <span class="n">a</span> <span class="n">given</span> <span class="n">array</span> <span class="n">whose</span> <span class="n">elements</span> <span class="nb">sum</span> <span class="n">up</span> <span class="n">to</span> <span class="n">a</span> <span class="n">given</span> <span class="n">integer</span> 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://quocnh.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://quocnh.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-12-25T21:37:28+00:00</updated><id>https://quocnh.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">437. Path Sum III</title><link href="https://quocnh.github.io/blog/2024/leetcode-Path-Sum-III/" rel="alternate" type="text/html" title="437. Path Sum III"/><published>2024-12-25T00:00:00+00:00</published><updated>2024-12-25T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-Path%20Sum-III</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-Path-Sum-III/"><![CDATA[<p>Given the root of a binary tree and an integer targetSum, return the number of paths where the sum of the values along the path equals targetSum.</p> <p>The path does not need to start or end at the root or a leaf, but it must go downwards (i.e., traveling only from parent nodes to child nodes).</p> <p>Example 1:</p> <p>Input: root = [10,5,-3,3,2,null,11,3,-2,null,1], targetSum = 8 Output: 3</p> <p>Explanation: The paths that sum to 8 are shown. Example 2:</p> <p>Input: root = [5,4,8,11,null,13,4,7,2,null,null,5,1], targetSum = 22 Output: 3</p> <h2 id="prifix-sum">Prifix Sum</h2> <ul> <li>Time complexity: O(n) , n: number of nodes</li> <li>Space complexity: O(h), h: height of tree</li> </ul> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># # Definition for a binary tree node.
+# # class TreeNode(object):
+# #     def __init__(self, val=0, left=None, right=None):
+# #         self.val = val
+# #         self.left = left
+# #         self.right = right
+# class Solution(object):
+#     def pathSum(self, root, targetSum):
+#         """
+#         :type root: Optional[TreeNode]
+#         :type targetSum: int
+#         :rtype: int
+#         """
+#         self.total = 0
+#         def helper(node, cur):
+#             if not node:
+#                 return
+</span>            
+<span class="c1">#             helper(node.left, cur + node.val)
+#             helper(node.right, cur + node.val)
+#             if node.val + cur == targetSum:
+#                 self.total +=1
+#         def dfs(node):
+#             if not node:
+#                 return
+#             count = helper(node, 0)
+#             dfs(node.left)
+#             dfs(node.right)
+</span>            
+<span class="c1">#         dfs(root)
+#         return self.total
+</span>        
+
+<span class="c1"># Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+</span>
+<span class="k">class</span> <span class="nc">TreeNode</span><span class="p">:</span>
+    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="n">self</span><span class="p">,</span> <span class="n">val</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">left</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">right</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+        <span class="n">self</span><span class="p">.</span><span class="n">val</span> <span class="o">=</span> <span class="n">val</span>
+        <span class="n">self</span><span class="p">.</span><span class="n">left</span> <span class="o">=</span> <span class="n">left</span>
+        <span class="n">self</span><span class="p">.</span><span class="n">right</span> <span class="o">=</span> <span class="n">right</span>
+
+<span class="k">class</span> <span class="nc">Solution</span><span class="p">:</span>
+    <span class="k">def</span> <span class="nf">pathSum</span><span class="p">(</span><span class="n">self</span><span class="p">,</span> <span class="n">root</span><span class="p">,</span> <span class="n">targetSum</span><span class="p">):</span>
+        <span class="k">def</span> <span class="nf">dfs</span><span class="p">(</span><span class="n">node</span><span class="p">,</span> <span class="n">currentSum</span><span class="p">,</span> <span class="n">prefixSums</span><span class="p">,</span> <span class="n">count</span><span class="p">):</span>
+            <span class="k">if</span> <span class="ow">not</span> <span class="n">node</span><span class="p">:</span>
+                <span class="k">return</span>
+            
+            <span class="c1"># Update the current sum
+</span>            <span class="n">currentSum</span> <span class="o">+=</span> <span class="n">node</span><span class="p">.</span><span class="n">val</span>
+            
+            <span class="c1"># Check if there's a prefix sum such that currentSum - targetSum exists
+</span>            <span class="k">if</span> <span class="n">currentSum</span> <span class="o">-</span> <span class="n">targetSum</span> <span class="ow">in</span> <span class="n">prefixSums</span><span class="p">:</span>
+                <span class="n">count</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">+=</span> <span class="n">prefixSums</span><span class="p">[</span><span class="n">currentSum</span> <span class="o">-</span> <span class="n">targetSum</span><span class="p">]</span>
+            
+            <span class="c1"># Update the prefixSums map
+</span>            <span class="k">if</span> <span class="n">currentSum</span> <span class="ow">in</span> <span class="n">prefixSums</span><span class="p">:</span>
+                <span class="n">prefixSums</span><span class="p">[</span><span class="n">currentSum</span><span class="p">]</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">prefixSums</span><span class="p">[</span><span class="n">currentSum</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>
+            
+            <span class="c1"># Recursively visit left and right subtrees
+</span>            <span class="nf">dfs</span><span class="p">(</span><span class="n">node</span><span class="p">.</span><span class="n">left</span><span class="p">,</span> <span class="n">currentSum</span><span class="p">,</span> <span class="n">prefixSums</span><span class="p">,</span> <span class="n">count</span><span class="p">)</span>
+            <span class="nf">dfs</span><span class="p">(</span><span class="n">node</span><span class="p">.</span><span class="n">right</span><span class="p">,</span> <span class="n">currentSum</span><span class="p">,</span> <span class="n">prefixSums</span><span class="p">,</span> <span class="n">count</span><span class="p">)</span>
+            
+            <span class="c1"># Backtrack: remove the currentSum from prefixSums
+</span>            <span class="k">if</span> <span class="n">prefixSums</span><span class="p">[</span><span class="n">currentSum</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+                <span class="k">del</span> <span class="n">prefixSums</span><span class="p">[</span><span class="n">currentSum</span><span class="p">]</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">prefixSums</span><span class="p">[</span><span class="n">currentSum</span><span class="p">]</span> <span class="o">-=</span> <span class="mi">1</span>
+        
+        <span class="c1"># Initialize variables
+</span>        <span class="n">count</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span>  <span class="c1"># Use a list to allow mutation
+</span>        <span class="n">prefixSums</span> <span class="o">=</span> <span class="p">{</span><span class="mi">0</span><span class="p">:</span> <span class="mi">1</span><span class="p">}</span>  <span class="c1"># Base case for when currentSum == targetSum
+</span>        
+        <span class="nf">dfs</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">prefixSums</span><span class="p">,</span> <span class="n">count</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">count</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+</code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[Given the root of a binary tree and an integer targetSum, return the number of paths where the sum of the values along the path equals targetSum.]]></summary></entry><entry><title type="html">560. Subarray Sum Equals K</title><link href="https://quocnh.github.io/blog/2024/leetcode-Subarray-Sum-Equals-K/" rel="alternate" type="text/html" title="560. Subarray Sum Equals K"/><published>2024-12-25T00:00:00+00:00</published><updated>2024-12-25T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-Subarray-Sum-Equals-K</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-Subarray-Sum-Equals-K/"><![CDATA[<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">The</span> <span class="n">problem</span> <span class="sh">"</span><span class="s">560. Subarray Sum Equals K</span><span class="sh">"</span> <span class="ow">is</span> <span class="n">about</span> <span class="n">finding</span> <span class="nb">all</span> <span class="n">the</span> <span class="n">contiguous</span> <span class="n">subarrays</span> <span class="n">of</span> <span class="n">a</span> <span class="n">given</span> <span class="n">array</span> <span class="n">whose</span> <span class="n">elements</span> <span class="nb">sum</span> <span class="n">up</span> <span class="n">to</span> <span class="n">a</span> <span class="n">given</span> <span class="n">integer</span> 
 <span class="n">𝑘</span>
 
 <span class="n">Understanding</span> <span class="k">with</span> <span class="n">Examples</span>
@@ -482,60 +563,4 @@ nums = [4, 1, 2, 1, 2]
 <span class="err">#</span>             <span class="nt">answer</span><span class="o">[</span><span class="nt">i</span><span class="o">]</span> <span class="o">=</span> <span class="nt">L</span><span class="o">[</span><span class="nt">i</span><span class="o">]</span> <span class="o">*</span> <span class="nt">R</span><span class="o">[</span><span class="nt">i</span><span class="o">]</span>
 
 <span class="err">#</span>         <span class="nt">return</span> <span class="nt">answer</span>
-</code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].]]></summary></entry><entry><title type="html">345. Reverse Vowels of a String</title><link href="https://quocnh.github.io/blog/2024/leetcode-reserve-vowels/" rel="alternate" type="text/html" title="345. Reverse Vowels of a String"/><published>2024-11-27T00:00:00+00:00</published><updated>2024-11-27T00:00:00+00:00</updated><id>https://quocnh.github.io/blog/2024/leetcode-reserve-vowels</id><content type="html" xml:base="https://quocnh.github.io/blog/2024/leetcode-reserve-vowels/"><![CDATA[<p>Given a string s, reverse only all the vowels in the string and return it.</p> <p>The vowels are ‘a’, ‘e’, ‘i’, ‘o’, and ‘u’, and they can appear in both lower and upper cases, more than once.</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Example</span> <span class="mi">1</span><span class="p">:</span>
-
-<span class="n">Input</span><span class="p">:</span> <span class="n">s</span> <span class="o">=</span> <span class="sh">"</span><span class="s">IceCreAm</span><span class="sh">"</span>
-
-<span class="n">Output</span><span class="p">:</span> <span class="sh">"</span><span class="s">AceCreIm</span><span class="sh">"</span>
-
-<span class="n">Explanation</span><span class="p">:</span>
-
-<span class="n">The</span> <span class="n">vowels</span> <span class="ow">in</span> <span class="n">s</span> <span class="n">are</span> <span class="p">[</span><span class="sh">'</span><span class="s">I</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">e</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">e</span><span class="sh">'</span><span class="p">,</span> <span class="sh">'</span><span class="s">A</span><span class="sh">'</span><span class="p">].</span> <span class="n">On</span> <span class="n">reversing</span> <span class="n">the</span> <span class="n">vowels</span><span class="p">,</span> <span class="n">s</span> <span class="n">becomes</span> <span class="sh">"</span><span class="s">AceCreIm</span><span class="sh">"</span><span class="p">.</span>
-
-<span class="n">Example</span> <span class="mi">2</span><span class="p">:</span>
-
-<span class="n">Input</span><span class="p">:</span> <span class="n">s</span> <span class="o">=</span> <span class="sh">"</span><span class="s">leetcode</span><span class="sh">"</span>
-
-<span class="n">Output</span><span class="p">:</span> <span class="sh">"</span><span class="s">leotcede</span><span class="sh">"</span>
-
-<span class="n">Constraints</span><span class="p">:</span>
-
-    <span class="mi">1</span> <span class="o">&lt;=</span> <span class="n">s</span><span class="p">.</span><span class="n">length</span> <span class="o">&lt;=</span> <span class="mi">3</span> <span class="o">*</span> <span class="mi">105</span>
-    <span class="n">s</span> <span class="n">consist</span> <span class="n">of</span> <span class="n">printable</span> <span class="n">ASCII</span> <span class="n">characters</span><span class="p">.</span>
-
-</code></pre></div></div> <h2 id="brute-force">Brute Force</h2> <ul> <li>Time complexity: O(n)</li> <li>Memory complexity: O(1)</li> </ul> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="k">class</span> <span class="nc">Solution</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
-    <span class="k">def</span> <span class="nf">reverseVowels</span><span class="p">(</span><span class="n">self</span><span class="p">,</span> <span class="n">s</span><span class="p">):</span>
-        <span class="sh">"""</span><span class="s">
-        :type s: str
-        :rtype: str
-        </span><span class="sh">"""</span>
-        <span class="n">vowels</span> <span class="o">=</span> <span class="sh">"</span><span class="s">aeiouAEIOU</span><span class="sh">"</span>
-        <span class="n">vowels</span> <span class="o">=</span> <span class="nf">list</span><span class="p">(</span><span class="n">vowels</span><span class="p">)</span>
-        <span class="n">s</span> <span class="o">=</span> <span class="nf">list</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
-        <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span>
-        <span class="n">j</span> <span class="o">=</span> <span class="nf">len</span><span class="p">(</span><span class="n">s</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span>
-        <span class="c1"># i , j = 0, len(s) -1
-</span>        <span class="nf">while</span><span class="p">(</span><span class="n">i</span> <span class="o">&lt;</span> <span class="n">j</span><span class="p">):</span>
-            <span class="k">if</span> <span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="ow">in</span> <span class="n">vowels</span> <span class="ow">and</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="ow">in</span> <span class="n">vowels</span><span class="p">:</span>
-                <span class="c1"># swap
-</span>               <span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="o">=</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">],</span> <span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
-               <span class="n">i</span> <span class="o">+=</span> <span class="mi">1</span>
-               <span class="n">j</span> <span class="o">-=</span> <span class="mi">1</span>
-            <span class="k">elif</span> <span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">vowels</span><span class="p">:</span>
-                <span class="n">i</span> <span class="o">+=</span> <span class="mi">1</span>
-            <span class="k">elif</span> <span class="n">s</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">vowels</span><span class="p">:</span>
-                <span class="n">j</span> <span class="o">-=</span> <span class="mi">1</span>
-        <span class="k">return</span> <span class="sh">""</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
-        <span class="c1"># vowels = ['a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U']
-</span>        <span class="c1"># my_vowels = []
-</span>        <span class="c1"># ans = ""
-</span>        <span class="c1"># for char in s:
-</span>        <span class="c1">#     if char in vowels:
-</span>        <span class="c1">#         my_vowels.append(char)
-</span>        <span class="c1"># for index,char in enumerate(s):
-</span>        <span class="c1">#     if char in vowels:
-</span>        <span class="c1">#         ans += str(my_vowels.pop())
-</span>        <span class="c1">#     else:
-</span>        <span class="c1">#         ans += str(char)
-</span>        <span class="c1"># return ans
-</span></code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[Given a string s, reverse only all the vowels in the string and return it.]]></summary></entry></feed>
+</code></pre></div></div>]]></content><author><name>Quoc Nguyen</name></author><category term="leetcode"/><summary type="html"><![CDATA[Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].]]></summary></entry></feed>
