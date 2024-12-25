@@ -43,8 +43,10 @@ There are 2 subarrays whose sum equals
 ## Prifix Sum
 - Time complexity: O(n)
 - Space complexity: O(n)
-- 
+
+  
 ```python
+
 def subarraySum(nums, k):
     count = 0
     runningSum = 0
@@ -60,7 +62,5 @@ def subarraySum(nums, k):
         # Update the hashmap with the current runningSum
         hashmap[runningSum] = hashmap.get(runningSum, 0) + 1
     
-    return count
-
-        
+    return count   
 ```
