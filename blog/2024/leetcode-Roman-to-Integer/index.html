@@ -37,8 +37,8 @@ X can be placed before L (50) and C (100) to make 40 and 90.
 C can be placed before D (500) and M (1000) to make 400 and 900.
 </code></pre></div></div> <p>Given a roman numeral, convert it to an integer.</p> <p>Example 1:</p> <p>Input: s = “III”</p> <p>Output: 3</p> <p>Explanation: III = 3.</p> <p>Example 2:</p> <p>Input: s = “LVIII”</p> <p>Output: 58</p> <p>Explanation: L = 50, V= 5, III = 3.</p> <p>Example 3:</p> <p>Input: s = “MCMXCIV”</p> <p>Output: 1994</p> <p>Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.</p> <p>Constraints:</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 &lt;= s.length &lt;= 15
 s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
-It is guaranteed that s is a valid roman numeral in the range [1, 3999]. ## hashmap Time: O(n) Space: O(n)
-</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Solution</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
+It is guaranteed that s is a valid roman numeral in the range [1, 3999].
+</code></pre></div></div> <h2 id="hashmap">hashmap</h2> <p>Time: O(n)</p> <p>Space: O(n)</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Solution</span><span class="p">(</span><span class="nb">object</span><span class="p">):</span>
     <span class="k">def</span> <span class="nf">romanToInt</span><span class="p">(</span><span class="n">self</span><span class="p">,</span> <span class="n">s</span><span class="p">):</span>
         <span class="sh">"""</span><span class="s">
         :type s: str
