@@ -44,7 +44,7 @@ Input: "RDD"
 Output: "Dire"
 
     
-## hashmap
+## queue
 Time: O(n)
 
 Space: O(n)
