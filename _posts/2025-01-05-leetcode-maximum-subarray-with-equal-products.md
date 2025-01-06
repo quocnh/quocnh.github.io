@@ -66,9 +66,9 @@ Output: 5
  
     
 ## brute force
-Time: O(n)
+Time: O(n^2)
 
-Space: O(n)
+Space: O(1)
 
 ```python
 class Solution(object):
