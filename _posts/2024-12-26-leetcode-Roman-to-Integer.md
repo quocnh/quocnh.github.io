@@ -4,7 +4,7 @@ title: 872. Leaf-Similar Trees
 description:
 tags: leetcode, apple
 giscus_comments: true
-date: 2024-12-14
+date: 2024-12-26
 featured: true
 
 authors:
