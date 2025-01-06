@@ -4,7 +4,7 @@ title: 3412. Find Mirror Score of a String
 description:
 tags: leetcode, apple
 giscus_comments: true
-date: 2024-12-14
+date: 2025-01-05
 featured: true
 
 authors:
