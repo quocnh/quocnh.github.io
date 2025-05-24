@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am a reviewer for Transactions on Dependable and Secure Computing and ACM Transactions on Autonomous and Adaptive Systems.
+I am a reviewer for IEEE Transactions on Dependable and Secure Computing and ACM Transactions on Autonomous and Adaptive Systems.
