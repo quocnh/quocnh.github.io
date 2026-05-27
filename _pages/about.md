@@ -9,7 +9,7 @@ profile:
   image: Profile.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href='https://github.com/quocnh/quocnh.github.io/blob/c46e3e0aada9c8c38a9db6453c30fa85e109cb25/assets/pdf/Quoc_Academia_CV.pdf'>CV</p>
+    <p><a href='https://github.com/quocnh/quocnh.github.io/blob/d8de179fe1aae229ebd4f1aa61e2690875975207/assets/pdf/Quoc_Academia_CV.pdf'>CV</p>
     <p><a href='https://www.linkedin.com/in/quocnh/'>LinkedIn</p>
     <p><a href='https://github.com/quocnh'>Github</p>
 
